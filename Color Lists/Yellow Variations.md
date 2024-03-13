@@ -1,6 +1,6 @@
 ---
 tags:
-  - Yellow
+  - Color/Yellow
 img:
 ---
 # Yellow Variations

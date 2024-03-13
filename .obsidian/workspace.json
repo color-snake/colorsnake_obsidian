@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "8976f0475b2a63ff",
+        "id": "0bf9e05d5a3000db",
         "type": "tabs",
         "children": [
           {
-            "id": "b2147b7486bacee3",
+            "id": "9b9be84fac7c7c5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Snake/Yellow Variations.md",
+                "file": "Color Lists/x11.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b7751a770de34a4b",
+            "id": "cb7e53a77e3d05a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Snake/This Book is Yellow.md",
+                "file": "Color Names/FF6347.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Color/List",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Snake/This Book is Yellow.md",
+                "file": "Color Lists/x11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Snake/This Book is Yellow.md",
+                "file": "Color Lists/x11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Color Snake/This Book is Yellow.md"
+                "file": "Color Lists/x11.md"
               }
             }
           }
@@ -160,12 +159,33 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b7751a770de34a4b",
+  "active": "9b9be84fac7c7c5e",
   "lastOpenFiles": [
-    "Color Snake/Yellow Variations.md",
-    "Color Snake/This Book is Yellow.md",
-    "General/Templates/Color Template.md",
-    "Color Snake",
+    "Color Names/FF6347.md",
+    "Color Lists/🟨 Yellow.md",
+    "Color Lists/x11.md",
+    "Color Names/FFFF00.md",
+    "Color Names/FFBF00.md",
+    "Color Names/FF0000.md",
+    "General/Color Info Standard Lists.md",
+    "Color Lists/Yellow Variations.md",
+    "Color Snake Palettes",
+    "Color Lists/🌈 roygbiv.md",
+    "Color Lists/Basic Colors.md",
+    "Color Lists/🟫 Brown.md",
+    "Color Lists/🟪 Purple and Pink.md",
+    "Color Lists/🟧 Orange.md",
+    "Color Lists/🟦 Blue.md",
+    "Color Lists/🟥 Red.md",
+    "Color Lists/This Book is Yellow.md",
+    "Color Lists/This Book is Brown.md",
+    "Color Lists/This Book is Orange.md",
+    "Color Lists/🟩 Green.md",
+    "General/Templates/Advanced Template.md",
+    "Color Names",
+    "General/Templates/Basic Template.md",
+    "Color Lists/This Book is Green.md",
+    "Color Lists",
     "README.md",
     "General/attachments",
     "General/Templates",

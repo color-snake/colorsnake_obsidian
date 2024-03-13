@@ -1,0 +1,66 @@
+---
+tags:
+  - Color/List/Coolors
+  - Color/Yellow
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Yellow.png
+---
+# Yellow
+```palette
+#FFBF00
+#FBCEB1
+#E9D66B
+#FDEE00
+#F5F5DC
+#E0AB76
+#FFEF00
+#F7E7CE
+#DFFF00
+#DDD06A
+#E4D00A
+#FFF8E7
+#FFFDD0
+#B8860B
+#CDB280
+#EEDC82
+#EF9B0F
+#FFD700
+#D4AF37
+#DAA520
+#E6A817
+#FCF75E
+#FFFFF0
+#F8DE7E
+#FACA16
+#C3B091
+#FFFACD
+#E3FF00
+#FFFFE0
+#C19A6B
+#FBEC5D
+#FFC40C
+#E3F988
+#FFDB58
+#FADA5E
+#FFDEAD
+#CFB53B
+#808000
+#FFEFD5
+#FADFAD
+#D1E231
+#F4C431
+#FFD800
+#FFBA00
+#FADA5E
+#E4D96F
+#FFCC33
+#FAD6A5
+#F3E5AB
+#F5DEB3
+#FFFF00
+```
+
+Every shade of yellow on "https://coolors.co/colors/yellow".
+
+
+----
+
