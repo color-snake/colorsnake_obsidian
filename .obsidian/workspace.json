@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1cb83cf1d4871442",
+    "type": "split",
+    "children": [
+      {
+        "id": "8976f0475b2a63ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2147b7486bacee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Color Snake/Yellow Variations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7751a770de34a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Color Snake/This Book is Yellow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df91620e788a909c",
+    "type": "split",
+    "children": [
+      {
+        "id": "91d885b90242eb40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ea2ac7392507fc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1901802baff68da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03cbe342c28e405f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "af8b071c75bef778",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbe93c447d44051e",
+    "type": "split",
+    "children": [
+      {
+        "id": "87635b9d3a12c45f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cd953918dd5c767",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Color Snake/This Book is Yellow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8eb99bb16e94489",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Color Snake/This Book is Yellow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa5bd2bc25db373b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Color Snake/This Book is Yellow.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "b7751a770de34a4b",
+  "lastOpenFiles": [
+    "Color Snake/Yellow Variations.md",
+    "Color Snake/This Book is Yellow.md",
+    "General/Templates/Color Template.md",
+    "Color Snake",
+    "README.md",
+    "General/attachments",
+    "General/Templates",
+    "General"
+  ]
+}
