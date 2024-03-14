@@ -1,7 +1,7 @@
 ---
 tags:
-  - Color/List/Coolors
   - Color/Yellow
+  - Color/Tag/Coolors
 img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Yellow.png
 ---
 # Yellow

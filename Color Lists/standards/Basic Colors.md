@@ -1,6 +1,6 @@
 ---
 tags:
-  - Color/List/Basic
+  - Color/Tag/Basic
 img:
 ---
 # Basic Colors

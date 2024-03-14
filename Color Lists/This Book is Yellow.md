@@ -5,40 +5,8 @@ img:
 # This Book is Yellow
 Names and Variations of Yellow
 
-Yellow, Electric Yellow
-```palette
-#FFFF00
-```
-RGB	255, 255, 0
-CMYK	0, 0, 100, 0
-HSL	60°, 100, 50
-
-Laser Lemon ?? Dandelion Yellow ?? Paris Daisy
-```palette
-#F9E647
-```
-RGB	249, 230, 71
-CMYK	0, 8, 71, 2
-HSL	53.6°, 93.7, 62.7
 
 
-Sunglow ??
-```palette
-#FFDE59
-#FFCC33
-```
-RGB	255,	222,	89
-CMYK	0, 13, 65, 0
-HSL	48.1°, 100, 67.5
-- https://coolors.co/ffcc33 Sunglow
-
-Turbo
-```palette
-#FFE700
-```
-RGB 255, 231, 0
-CMYK	0, 9, 100, 0
-HSL	54.4°, 100, 50
 
 
 ---

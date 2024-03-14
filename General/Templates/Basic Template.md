@@ -1,4 +1,5 @@
 ---
 tags: 
-img:
+img: 
+Palette ID#:
 ---

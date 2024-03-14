@@ -5,59 +5,8 @@
       "fieldConfig": {},
       "defaultName": "",
       "templates": [
-        "General/Templates/Color Template.md"
+        "General/Templates/Advanced Template.md"
       ],
-      "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
-          "path": "Color Snake",
-          "recursive": false
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {},
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "92d8477b-b669-4aa8-a81d-037976d49f3e",
-          "name": "Table",
-          "type": "table"
-        },
-        {
-          "config": {
-            "coverField": "img"
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "0389c01d-bdfc-49d2-ace5-ceadea913691",
-          "name": "Gallery",
-          "type": "gallery"
-        }
-      ],
-      "id": "5310989e-8aac-4f37-8cc1-ac36fe4cc367",
-      "name": "Color Snake"
-    },
-    {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
       "excludedNotes": [],
       "isDefault": false,
       "dataSource": {
@@ -70,7 +19,72 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "coverField": "img",
+            "fitStyle": "cover"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "Name",
+                "operator": "not-contains",
+                "enabled": true,
+                "value": "⛔️"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#f7ff80",
+                "condition": {
+                  "field": "tags",
+                  "operator": "has-any-of",
+                  "enabled": false,
+                  "value": "[\"Color/Yellow\"]"
+                }
+              },
+              {
+                "color": "#ff8080",
+                "condition": {
+                  "field": "Name",
+                  "operator": "contains",
+                  "enabled": false,
+                  "value": "⛔️"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "276ce8ec-4c47-4a20-8c5b-f7842e2b0308",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "hide": false
+              },
+              "CMYK": {
+                "hide": true
+              },
+              "Hex": {
+                "hide": true
+              },
+              "HSL": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              }
+            }
+          },
           "filter": {
             "conditions": []
           },
@@ -87,6 +101,59 @@
       ],
       "id": "e99a345e-298e-4639-baf3-d482cb6469aa",
       "name": "Color Names"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Color Snake Palettes",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "img",
+            "fitStyle": "cover",
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f9a557d2-cda0-4583-adca-8c6c75d637e7",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "40f6775c-0f5b-4c89-b1e3-d719cf5afc57",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "9336a5ad-5f96-4fa4-8477-b33c81163112",
+      "name": "Color Snake Palettes"
     }
   ],
   "archives": [],

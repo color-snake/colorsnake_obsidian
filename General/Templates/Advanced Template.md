@@ -5,5 +5,6 @@ RGB:
 Hex: 
 CMYK: 
 HSL: 
-Name:
+Name: 
+Palette ID#:
 ---
