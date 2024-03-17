@@ -103,7 +103,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "Name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "1b076384-765d-449c-9f44-57e3c71bbb14",
           "name": "Table",

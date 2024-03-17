@@ -3,10 +3,10 @@ tags:
   - Color/Pink
   - Color/Purple
 img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Color%20Thumbnails/%23FF00FF%20(1920).png
-RGB:
+RGB: 
 Hex: "#FF00FF"
-CMYK:
-HSL:
+CMYK: 
+HSL: 
 Name: Magenta
 Palette ID#:
 ---
