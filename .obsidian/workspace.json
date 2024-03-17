@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0bf9e05d5a3000db",
+        "id": "0d277ab44bbf8675",
         "type": "tabs",
         "children": [
           {
-            "id": "031f30e819946b34",
+            "id": "0a82d3d886ef1b34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/0000FF.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Names/0000FF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Names/0000FF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Color Names/0000FF.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "8ea2ac7392507fc5",
+  "active": "0a82d3d886ef1b34",
   "lastOpenFiles": [
+    "Color Names/ 0A001C.md",
+    "Color Names/ 000000.md",
+    "Color Names/ 0A6F75.md",
+    "Color Names/0000FF.md",
     "Color Names/ FFFFF0.md",
     "Color Names/ FFFFB4.md",
     "Color Names/ FFFF99.md",
@@ -171,10 +167,6 @@
     "Color Names/ FFFBDC.md",
     "Color Names/ FFFAF4.md",
     "Color Names/ FFFACD.md",
-    "Color Names/ FFF46E.md",
-    "Color Names/ FFF39D.md",
-    "Color Names/ FFF14F.md",
-    "Color Names/ FFF9E6.md",
     "Color Lists/standards/color_file.sh",
     "Color Lists/standards/NTC.csv",
     "Color Lists/This Book/This Book is Yellow.canvas",
