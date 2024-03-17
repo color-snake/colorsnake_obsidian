@@ -28,8 +28,13 @@
               {
                 "field": "Name",
                 "operator": "not-contains",
-                "enabled": true,
+                "enabled": false,
                 "value": "⛔️"
+              },
+              {
+                "field": "img",
+                "operator": "is-not-empty",
+                "enabled": true
               }
             ]
           },
@@ -56,7 +61,13 @@
             ]
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "276ce8ec-4c47-4a20-8c5b-f7842e2b0308",
           "name": "Gallery",
@@ -158,7 +169,7 @@
   ],
   "archives": [],
   "preferences": {
-    "projectSizeLimit": 1000,
+    "projectSizeLimit": 10000,
     "frontmatter": {
       "quoteStrings": "PLAIN"
     },
