@@ -147,7 +147,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "f9a557d2-cda0-4583-adca-8c6c75d637e7",
           "name": "Gallery",

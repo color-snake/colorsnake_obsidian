@@ -11,6 +11,6 @@ But the bigger question is how do I organize color palettes.
 - Artist Palette 0001 ?
 - Designer Palette 0001 ?
 - Thinking of spotlighting other artist and designers.
-- Palette Spotlight 0001
+- Palette Spotlight 0001 (there may be more than one palette for a spotlight)
 - Or maybe just use my Palette 000 name?
 - 

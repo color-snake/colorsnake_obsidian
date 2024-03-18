@@ -1,0 +1,9 @@
+Amen
+```palette
+#FFFDD0
+#FFFFFF
+#56BBE3
+#966562
+#836FA0
+```
+

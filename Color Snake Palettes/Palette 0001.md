@@ -3,6 +3,7 @@ tags:
   - Palette
 img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%20001%20(1920).png
 Palette ID#: "0001"
+Shared: ✅
 ---
 Big God
 ```palette

@@ -7,7 +7,8 @@ Hex: "#FFFFFF"
 CMYK: 0, 0, 0, 0
 HSL: 0°, 0, 100
 Name: White
-Palette ID#:
+Palette ID#: 
+Shared: ✅
 ---
 White
 ```palette
@@ -16,3 +17,9 @@ White
 RGB 255, 255, 255
 CMYK	0, 0, 0, 0
 HSL	0°, 0, 100
+
+
+---
+
+- [[Post 0002]]
+- 

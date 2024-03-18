@@ -1,0 +1,11 @@
+Imagination
+```palette
+#715DD3
+#86B8A4
+#B13EAF
+#7FADBE
+#B92A32
+#06A0EE
+#ADA787
+```
+
