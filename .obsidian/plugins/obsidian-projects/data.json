@@ -120,7 +120,13 @@
       "name": "Color Names"
     },
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "Shared": {
+          "options": [
+            "✅"
+          ]
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
@@ -141,7 +147,14 @@
             "includeFields": []
           },
           "filter": {
-            "conditions": []
+            "conditions": [
+              {
+                "field": "img",
+                "operator": "is-not-empty",
+                "enabled": true,
+                "value": ""
+              }
+            ]
           },
           "colors": {
             "conditions": []
@@ -177,6 +190,52 @@
       ],
       "id": "9336a5ad-5f96-4fa4-8477-b33c81163112",
       "name": "Color Snake Palettes"
+    },
+    {
+      "fieldConfig": {
+        "Shared": {
+          "options": [
+            "✅"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "General/Social",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "6d4bebc9-0ebb-4172-bc33-b805e2a56fda",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "a69a914a-9d67-410c-b883-678127cad0ff",
+      "name": "Social"
     }
   ],
   "archives": [],

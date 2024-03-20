@@ -11,48 +11,36 @@
             "id": "a41e92f9997954f6",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Color Snake Palettes/Palette 0005.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c71b2df89e82813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9390241ef41515b",
+            "type": "leaf",
+            "state": {
               "type": "obsidian-projects",
               "state": {}
             }
-          },
-          {
-            "id": "a47c9b0ab631f1c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Social/Post 0000.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b15a4a3a8f3cfb51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Social Description and Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34adab83fec93e93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Snake Palettes/Palette 0003.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +59,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -81,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MadeWith",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Snake Palettes/Palette 0003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Snake Palettes/Palette 0003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Color Snake Palettes/Palette 0003.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,34 +164,34 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "34adab83fec93e93",
+  "active": "f9390241ef41515b",
   "lastOpenFiles": [
-    "Color Snake Palettes/Palette 0002.md",
-    "Color Snake Palettes/Palette 0003.md",
-    "General/Social Description and Ideas.md",
+    "README.md",
+    "General/Social/Post 0002.md",
+    "Color Snake Palettes/Palette 0005.md",
+    "General/Social/Post 0007.md",
+    "General/Social/Post 0001.md",
     "General/Social/Post 0000.md",
-    "Color Snake Palettes/Palette 0018.md",
-    "Color Snake Palettes/Palette 0017.md",
-    "Color Snake Palettes/Color Pair 0007.md",
-    "Color Snake Palettes/Palette 0016.md",
+    "General/Templates/Social Template.md",
+    "General/Templates/Basic Template.md",
+    "General/Templates/Advanced Template.md",
+    "General/Social/Post 0006.md",
+    "General/Social/Post 0005.md",
     "Color Snake Palettes/Color Pair 0006.md",
-    "Color Snake Palettes/Palette 0015.md",
-    "Color Snake Palettes/Palette 0014.md",
     "Color Snake Palettes/Color Pair 0005.md",
-    "Color Snake Palettes/Palette 0013.md",
-    "Color Snake Palettes/Color Pair 0004.md",
-    "Color Snake Palettes/Palette 0012.md",
-    "Color Snake Palettes/Palette 0011.md",
-    "Color Snake Palettes/Palette 0010.md",
-    "Color Snake Palettes/Palette 0009.md",
-    "Color Snake Palettes/Palette 0008.md",
-    "Color Snake Palettes/Color Pair 0003.md",
-    "Color Snake Palettes/Color Pair 0000.md",
-    "Color Snake Palettes/Color Pair 0002.md",
-    "Color Snake Palettes/Palette 0007.md",
-    "Color Snake Palettes/Palette 0006.md",
+    "General/Social/Post 0004.md",
+    "General/Social/Post 0003.md",
+    "General/My Basic Color List.md",
+    "General/Films For Palettes.md",
+    "General/Color Info Standard Lists.md",
+    "General/Color Snake Brand Colors.md",
+    "General/Palette Naming.md",
+    "General/Palette Insp Ideas.md",
+    "General/Social Description and Ideas.md",
+    "General/Website Metadata.md",
+    "Color Lists/standards/HTML.md",
+    "Color Names/0047AB.md",
     "Color Snake Palettes/Palette 0000.md",
-    "Color Snake Palettes/Color Pair 0001.md",
     "General/attachments/0002 (1080) p3.png",
     "General/Spotlights",
     "General/Social",

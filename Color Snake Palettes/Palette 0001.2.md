@@ -1,7 +1,8 @@
 ---
-tags: 
+tags:
 img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%20001.2%20(1920).png
 Palette ID#:
+Shared: ❌
 ---
 Big God
 Color Difference

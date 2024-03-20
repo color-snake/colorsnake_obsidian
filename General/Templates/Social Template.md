@@ -1,6 +1,6 @@
 ---
 tags: 
 img: 
-Palette ID#: 
+Post ID#: 
 Shared:
 ---

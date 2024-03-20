@@ -27,6 +27,7 @@ Submit your Color Palettes and Get your work spotlighted
 - What would you call this palette?
 - What will you create with this color pair?
 - What would you call this color pair?
+- Will you use this color palette for your next project?
 
 
 

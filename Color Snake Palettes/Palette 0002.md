@@ -54,3 +54,13 @@ HSL	349.5°, 100, 87.6
 
 Palette 0002
 Color Snake
+
+
+---
+
+Colors
+- [[FCF75E]]
+- [[FFFFFF]]
+- [[FF7518]]
+- [[FFC0CB]]
+- 

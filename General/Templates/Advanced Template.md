@@ -6,5 +6,6 @@ Hex:
 CMYK: 
 HSL: 
 Name: 
-Palette ID#:
+Palette ID#: 
+Shared:
 ---
