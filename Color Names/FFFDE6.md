@@ -6,6 +6,7 @@ Hex:
 CMYK:
 HSL:
 Name:
+img: ""
 ---
 Chilean Heath
 ```palette

@@ -2,12 +2,12 @@
 tags:
   - Color/Tag/NTC
   - Color/Yellow
-img: 
-RGB: 
-Hex: 
-CMYK: 
-HSL: 
-Name: 
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/SVG_Tumb%20Mass%20No%20Name/FFFF66.svg
+RGB:
+Hex:
+CMYK:
+HSL:
+Name:
 Palette ID#:
 ---
 Unmellow Yellow (NCT: Laser Lemon)
