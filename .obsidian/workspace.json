@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Names/FFE4E1.MD",
+                "file": "Color Names/87CEFA.MD",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#ffe4e1",
+                "query": "87CEFA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Names/FFE4E1.MD",
+                "file": "Color Names/87CEFA.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Names/FFE4E1.MD",
+                "file": "Color Names/87CEFA.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Color Names/FFE4E1.MD"
+                "file": "Color Names/87CEFA.MD"
               }
             }
           }
@@ -195,9 +195,10 @@
   },
   "active": "797706893892823b",
   "lastOpenFiles": [
-    "Color Lists/standards/x11.md",
-    "Color Names/FFE4E1.MD",
     "Color Names/CD5C5C.md",
+    "Color Names/87CEFA.MD",
+    "Color Names/FFE4E1.MD",
+    "Color Lists/standards/x11.md",
     "Color Names/FF69B4.md",
     "Color Names/00CED1.MD",
     "Color Names/FFD700.md",
@@ -220,7 +221,6 @@
     "Color Names/012731.md",
     "Color Names/011D13.md",
     "Color Names/011635.md",
-    "Color Names/010D1A.md",
     "Color Names/x11_tag.sh",
     "Color Names/ntc_tag copy.sh",
     "Color Names/html_tag.sh",

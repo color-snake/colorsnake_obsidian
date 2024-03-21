@@ -24,8 +24,22 @@ def update_tags_in_markdown_files(directory, csv_file):
             print("Processing file:", file_name, "with hex value:", hex_value)
             if hex_value in x11_colors:
                 markdown_file = os.path.join(directory, file_name)
-                with open(markdown_file, 'a') as file:
-                    file.write(f"tags:\n  {tag_to_add}\n")
+                with open(markdown_file, 'r') as file:
+                    content = file.readlines()
+                
+                updated_content = []
+                tag_added = False
+                for line in content:
+                    if not tag_added and line.strip().startswith("---"):
+                        updated_content.append(line)
+                        updated_content.append(f"tags:\n  {tag_to_add}\n")
+                        tag_added = True
+                    else:
+                        updated_content.append(line)
+                
+                with open(markdown_file, 'w') as file:
+                    for line in updated_content:
+                        file.write(line)
                 print("Tag added to:", file_name)
 
 if __name__ == "__main__":
