@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Lists/standards/HTML.md",
+                "file": "Color Lists/standards/x11.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3def4c8d117bb976",
+            "id": "e76663cf103c501a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,11 +153,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3def4c8d117bb976",
+  "active": "e76663cf103c501a",
   "lastOpenFiles": [
+    "Color Lists/standards/x11.md",
+    "Color Names/FFD700.md",
+    "Color Names/4B0082.md",
+    "Color Names/DC143C.md",
+    "files without tags.md",
     "Color Lists/standards/HTML.md",
     "Color Names/00FFFF.md",
-    "files without tags.md",
     "Color Names/483D8B.MD",
     "Color Names/3CB371.MD",
     "Color Names/2F4F4F.MD",
@@ -176,10 +181,6 @@
     "Color Names/FFFFE0.MD",
     "Color Lists/This Book/This Book is Yellow.md",
     "Color Names/FEFE22.md",
-    "Color Names/F9E647.md",
-    "Color Snake Palettes/Palette 0018.md",
-    "General/Color Snake Brand Colors.md",
-    "General/Templates/Palette Template.md",
     "Color Names/x11_tag.sh",
     "Color Names/ntc_tag copy.sh",
     "Color Names/html_tag.sh",
