@@ -8,26 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a75e386d7079fa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Lists/standards/x11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7ff05659ad4ba946",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "71cab16703841682",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Color/Tag/NTC",
+                "query": "#8fbc8f",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Lists/standards/x11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Lists/standards/x11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Color Lists/standards/x11.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,34 +149,34 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0a75e386d7079fa1",
+  "active": "71cab16703841682",
   "lastOpenFiles": [
-    "Color Names/FF7F50.md",
-    "Color Names/FF7F00.md",
-    "Color Names/FF7D07.md",
-    "Color Names/FF7518.md",
-    "Color Names/FF7034.md",
-    "Color Names/FF6FFF.md",
-    "Color Names/FF6B53.md",
-    "Color Names/FF69B4.md",
-    "Color Names/FF681F.md",
-    "Color Names/FF66FF.md",
-    "Color Names/FF6600.md",
-    "Color Names/FF6347.md",
-    "Color Names/FF6037.md",
-    "Color Names/FF4F00.md",
-    "Color Names/FF4D00.md",
-    "Color Names/FF4040.md",
-    "Color Names/FF3F34.md",
-    "Color Names/FF355E.md",
-    "Color Names/FF33CC.md",
-    "Color Names/FF3399.md",
-    "Color Names/FF2400.md",
-    "Color Names/FF00FF.md",
-    "Color Names/FF00CC.md",
-    "Color Names/FF007F.md",
-    "Color Names/FF0000.md",
-    "Color Names/FEFE22.md",
+    "Color Names/8FBC8F.MD",
+    "Color Names/FFF0F5.md",
+    "Color Names/FFF0DB.md",
+    "Color Names/FFEFEC.md",
+    "Color Names/FFEFD5.md",
+    "Color Names/FFEFC1.md",
+    "Color Names/FFEFA1.md",
+    "Color Names/FFEED8.md",
+    "Color Names/FFEDBC.md",
+    "Color Names/FFEC13.md",
+    "Color Names/FFEAD4.md",
+    "Color Names/FFEAC8.md",
+    "Color Names/FFE772.md",
+    "Color Names/FFE700.md",
+    "Color Names/FFE6C7.md",
+    "Color Names/FFE5B4.md",
+    "Color Names/FFE5A0.md",
+    "Color Names/FFE2C5.md",
+    "Color Names/FFE1F2.md",
+    "Color Names/FFE1DF.md",
+    "Color Names/FFDEB3.md",
+    "Color Names/FFDEAD.md",
+    "Color Names/FFDE59.md",
+    "Color Names/FFDDF4.md",
+    "Color Names/FFDDCF.md",
+    "Color Names/FFDDCD.md",
     "Color Names/tag.sh",
     "Color Names/x11.csv",
     "Color Names/NTC_v3.csv",
