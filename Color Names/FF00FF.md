@@ -2,9 +2,10 @@
 tags:
   - Color/Pink
   - Color/Purple
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Color%20Thumbnails/%23FF00FF%20(1920).png
+  - Color/Tag/NTC
 RGB: 
 Hex: "#FF00FF"
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/SVG_Tumb%20Mass%20No%20Name/FF00FF.svg
 CMYK: 
 HSL: 
 Name: Magenta

@@ -5,9 +5,9 @@ tags:
   - Color/Tag/HTML
   - Color/Tag/NTC
   - Color/Tag/x11
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Color%20Thumbnails/%23FFC0CB%20(1920).png
 RGB: 255, 192, 203
 Hex: "#FFC0CB"
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/SVG_Tumb%20Mass%20No%20Name/FFC0CB.svg
 CMYK: 0, 25, 20, 0
 HSL: 349.5°, 100, 87.6
 Name: Pink

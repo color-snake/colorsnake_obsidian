@@ -2,9 +2,9 @@
 tags:
   - Color/White
   - Color/Tag/NTC
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Color%20Thumbnails/%23FFFFFF%20(1920).png
 RGB: 255, 255, 255
 Hex: "#FFFFFF"
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/SVG_Tumb%20Mass%20No%20Name/FFFFFF.svg
 CMYK: 0, 0, 0, 0
 HSL: 0°, 0, 100
 Name: White

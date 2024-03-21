@@ -35,6 +35,12 @@
                 "field": "img",
                 "operator": "is-not-empty",
                 "enabled": false
+              },
+              {
+                "field": "tags",
+                "operator": "has-none-of",
+                "enabled": false,
+                "value": "[\"Color/Tag/NTC\"]"
               }
             ]
           },

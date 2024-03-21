@@ -2,9 +2,9 @@
 tags:
   - Color/Brown
   - Color/Yellow
-img: 
 RGB: 
 Hex: "#CEAF81"
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/SVG_Tumb%20Mass%20No%20Name/CEAF81.svg
 CMYK: 
 HSL: 
 Name: Saxophone Gold
