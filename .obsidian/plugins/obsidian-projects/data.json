@@ -33,13 +33,13 @@
               },
               {
                 "field": "img",
-                "operator": "is-not-empty",
+                "operator": "is-empty",
                 "enabled": false
               },
               {
                 "field": "tags",
                 "operator": "has-none-of",
-                "enabled": false,
+                "enabled": true,
                 "value": "[\"Color/Tag/NTC\"]"
               }
             ]

@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "b787e0a4c579bf47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Color Names/FFFFE0.MD",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "812a75c83c8a607a",
             "type": "leaf",
             "state": {
@@ -150,6 +162,7 @@
   },
   "active": "7f79996ae44f8e81",
   "lastOpenFiles": [
+    "Color Names/FFFFE0.MD",
     "Color Names/FFFFF0.md",
     "Color Names/000000.md",
     "Color Names/FFFFFF.md",
@@ -179,7 +192,6 @@
     "Color Names/FFEBCD.MD",
     "Color Names/FFF8DC.MD",
     "Color Names/FFFAF0.MD",
-    "Color Names/FFFAFA.MD",
     "Color Names/x11_tag.sh",
     "Color Names/ntc_tag copy.sh",
     "Color Names/html_tag.sh",
