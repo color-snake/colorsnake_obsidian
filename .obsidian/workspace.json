@@ -13,42 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Color Info Standard Lists.md",
+                "file": "Color Names/00CED1.MD",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5239b88ae21db068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Lists/To Chat GPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2107e67b614166b2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
             "id": "0a75e386d7079fa1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Color Lists/standards/x11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Color/Tag/ColorSnakeColor",
+                "query": "FFEBCD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +88,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Lists/To Chat GPT.md",
+                "file": "Color Names/00CED1.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Lists/To Chat GPT.md",
+                "file": "Color Names/00CED1.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Color Lists/To Chat GPT.md"
+                "file": "Color Names/00CED1.MD"
               }
             }
           }
@@ -176,45 +160,44 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "5239b88ae21db068",
+  "active": "ab966542ed9fcd15",
   "lastOpenFiles": [
+    "Color Names/tag.sh",
+    "Color Names/x11.csv",
+    "Color Names/NTC_v3.csv",
+    "Color Names/HTML.csv",
+    "General/Color Info Standard Lists.md",
+    "Color Names/FFFFFF.md",
+    "Color Names/FFFFF0.md",
+    "Color Names/FFFFB4.md",
+    "Color Names/FFFF99.md",
+    "Color Names/FFFF66.md",
+    "Color Names/FFFF00.md",
+    "Color Names/FFFEFD.md",
+    "Color Names/FFFEF6.md",
+    "Color Names/FFFEF0.md",
+    "Color Names/FFFEEC.md",
+    "Color Names/FFFEE1.md",
+    "Color Names/FFFDF4.md",
+    "Color Names/FFFDF3.md",
+    "Color Names/FFFDE8.md",
+    "Color Names/FFFDE6.md",
+    "Color Names/FFFDD0.md",
+    "Color Names/FFFCEE.md",
+    "Color Names/FFFCEA.md",
+    "Color Names/FFFC99.md",
+    "Color Names/FFFBF9.md",
+    "Color Names/FFFBDC.md",
+    "Color Names/FFFAF4.md",
+    "Color Names/FFFACD.md",
+    "Color Names/FFF9E6.md",
     "Color Names/difference.sh",
-    "Color Names/FFFFE0.MD",
-    "Color Names/FFFAFA.MD",
-    "Color Names/FFFAF0.MD",
-    "Color Names/FFF8DC.MD",
-    "Color Names/FFEBCD.MD",
-    "Color Names/FFE4E1.MD",
-    "Color Names/FFE4C4.MD",
-    "Color Names/FFE4B5.MD",
-    "Color Names/FFDAB9.MD",
-    "Color Names/FFB6C1.MD",
-    "Color Names/FFA07A.MD",
-    "Color Names/FF4500.MD",
-    "Color Names/FF1493.MD",
-    "Color Names/FF8C00.MD",
-    "Color Names/FAFAD2.MD",
-    "Color Names/FA8072.MD",
-    "Color Names/F08080.MD",
-    "Color Names/F8F8FF.MD",
-    "Color Names/F5FFFA.MD",
-    "Color Names/F5F5F5.MD",
-    "Color Names/F0FFFF.MD",
-    "Color Names/F0FFF0.MD",
-    "Color Names/EEE8AA.MD",
-    "Color Names/E9967A.MD",
-    "Color Names/E6E6FA.MD",
     "Color Names/standard_difference.csv",
     "Color Lists/standards/standard_difference.csv",
     "Color Lists/standards/NTC_v3.csv",
     "Color Lists/standards/NTC_v2 copy.csv",
     "Color Lists/standards/x11.csv",
-    "Color Lists/standards/HTML.csv",
     "Color Lists/This Book/This Book is Yellow.canvas",
-    "Color Lists/linkchange.sh",
-    "Color Names/NTC_v2.csv",
-    "Color Names",
-    "Color Lists/standards/create_svg_v2.py",
     "General/attachments/0002 (1080) p3.png",
     "General/attachments/Color Snake Palette 001 (1920).png"
   ]
