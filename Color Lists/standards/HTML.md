@@ -4,151 +4,592 @@ https://github.com/colorjs/color-namer/blob/master/lib/colors/html.js
 
 ---
 
-  { name: 'aqua', hex: '#00FFFF' },
-  { name: 'aliceblue', hex: '#F0F8FF' },
-  { name: 'antiquewhite', hex: '#FAEBD7' },
-  { name: 'black', hex: '#000000' },
-  { name: 'blue', hex: '#0000FF' },
-  { name: 'cyan', hex: '#00FFFF' },
-  { name: 'darkblue', hex: '#00008B' },
-  { name: 'darkcyan', hex: '#008B8B' },
-  { name: 'darkgreen', hex: '#006400' },
-  { name: 'darkturquoise', hex: '#00CED1' },
-  { name: 'deepskyblue', hex: '#00BFFF' },
-  { name: 'green', hex: '#008000' },
-  { name: 'lime', hex: '#00FF00' },
-  { name: 'mediumblue', hex: '#0000CD' },
-  { name: 'mediumspringgreen', hex: '#00FA9A' },
-  { name: 'navy', hex: '#000080' },
-  { name: 'springgreen', hex: '#00FF7F' },
-  { name: 'teal', hex: '#008080' },
-  { name: 'midnightblue', hex: '#191970' },
-  { name: 'dodgerblue', hex: '#1E90FF' },
-  { name: 'lightseagreen', hex: '#20B2AA' },
-  { name: 'forestgreen', hex: '#228B22' },
-  { name: 'seagreen', hex: '#2E8B57' },
-  { name: 'darkslategray', hex: '#2F4F4F' },
-  { name: 'darkslategrey', hex: '#2F4F4F' },
-  { name: 'limegreen', hex: '#32CD32' },
-  { name: 'mediumseagreen', hex: '#3CB371' },
-  { name: 'turquoise', hex: '#40E0D0' },
-  { name: 'royalblue', hex: '#4169E1' },
-  { name: 'steelblue', hex: '#4682B4' },
-  { name: 'darkslateblue', hex: '#483D8B' },
-  { name: 'mediumturquoise', hex: '#48D1CC' },
-  { name: 'indigo', hex: '#4B0082' },
-  { name: 'darkolivegreen', hex: '#556B2F' },
-  { name: 'cadetblue', hex: '#5F9EA0' },
-  { name: 'cornflowerblue', hex: '#6495ED' },
-  { name: 'mediumaquamarine', hex: '#66CDAA' },
-  { name: 'dimgray', hex: '#696969' },
-  { name: 'dimgrey', hex: '#696969' },
-  { name: 'slateblue', hex: '#6A5ACD' },
-  { name: 'olivedrab', hex: '#6B8E23' },
-  { name: 'slategray', hex: '#708090' },
-  { name: 'slategrey', hex: '#708090' },
-  { name: 'lightslategray', hex: '#778899' },
-  { name: 'lightslategrey', hex: '#778899' },
-  { name: 'mediumslateblue', hex: '#7B68EE' },
-  { name: 'lawngreen', hex: '#7CFC00' },
-  { name: 'aquamarine', hex: '#7FFFD4' },
-  { name: 'chartreuse', hex: '#7FFF00' },
-  { name: 'gray', hex: '#808080' },
-  { name: 'grey', hex: '#808080' },
-  { name: 'maroon', hex: '#800000' },
-  { name: 'olive', hex: '#808000' },
-  { name: 'purple', hex: '#800080' },
-  { name: 'lightskyblue', hex: '#87CEFA' },
-  { name: 'skyblue', hex: '#87CEEB' },
-  { name: 'blueviolet', hex: '#8A2BE2' },
-  { name: 'darkmagenta', hex: '#8B008B' },
-  { name: 'darkred', hex: '#8B0000' },
-  { name: 'saddlebrown', hex: '#8B4513' },
-  { name: 'darkseagreen', hex: '#8FBC8F' },
-  { name: 'lightgreen', hex: '#90EE90' },
-  { name: 'mediumpurple', hex: '#9370DB' },
-  { name: 'darkviolet', hex: '#9400D3' },
-  { name: 'palegreen', hex: '#98FB98' },
-  { name: 'darkorchid', hex: '#9932CC' },
-  { name: 'yellowgreen', hex: '#9ACD32' },
-  { name: 'sienna', hex: '#A0522D' },
-  { name: 'brown', hex: '#A52A2A' },
-  { name: 'darkgray', hex: '#A9A9A9' },
-  { name: 'darkgrey', hex: '#A9A9A9' },
-  { name: 'greenyellow', hex: '#ADFF2F' },
-  { name: 'lightblue', hex: '#ADD8E6' },
-  { name: 'paleturquoise', hex: '#AFEEEE' },
-  { name: 'lightsteelblue', hex: '#B0C4DE' },
-  { name: 'powderblue', hex: '#B0E0E6' },
-  { name: 'firebrick', hex: '#B22222' },
-  { name: 'darkgoldenrod', hex: '#B8860B' },
-  { name: 'mediumorchid', hex: '#BA55D3' },
-  { name: 'rosybrown', hex: '#BC8F8F' },
-  { name: 'darkkhaki', hex: '#BDB76B' },
-  { name: 'silver', hex: '#C0C0C0' },
-  { name: 'mediumvioletred', hex: '#C71585' },
-  { name: 'indianred', hex: '#CD5C5C' },
-  { name: 'peru', hex: '#CD853F' },
-  { name: 'chocolate', hex: '#D2691E' },
-  { name: 'tan', hex: '#D2B48C' },
-  { name: 'lightgray', hex: '#D3D3D3' },
-  { name: 'lightgrey', hex: '#D3D3D3' },
-  { name: 'thistle', hex: '#D8BFD8' },
-  { name: 'goldenrod', hex: '#DAA520' },
-  { name: 'orchid', hex: '#DA70D6' },
-  { name: 'palevioletred', hex: '#DB7093' },
-  { name: 'crimson', hex: '#DC143C' },
-  { name: 'gainsboro', hex: '#DCDCDC' },
-  { name: 'plum', hex: '#DDA0DD' },
-  { name: 'burlywood', hex: '#DEB887' },
-  { name: 'lightcyan', hex: '#E0FFFF' },
-  { name: 'lavender', hex: '#E6E6FA' },
-  { name: 'darksalmon', hex: '#E9967A' },
-  { name: 'palegoldenrod', hex: '#EEE8AA' },
-  { name: 'violet', hex: '#EE82EE' },
-  { name: 'azure', hex: '#F0FFFF' },
-  { name: 'honeydew', hex: '#F0FFF0' },
-  { name: 'khaki', hex: '#F0E68C' },
-  { name: 'lightcoral', hex: '#F08080' },
-  { name: 'sandybrown', hex: '#F4A460' },
-  { name: 'beige', hex: '#F5F5DC' },
-  { name: 'mintcream', hex: '#F5FFFA' },
-  { name: 'wheat', hex: '#F5DEB3' },
-  { name: 'whitesmoke', hex: '#F5F5F5' },
-  { name: 'ghostwhite', hex: '#F8F8FF' },
-  { name: 'lightgoldenrodyellow',
-    hex: '#FAFAD2' },
-  { name: 'linen', hex: '#FAF0E6' },
-  { name: 'salmon', hex: '#FA8072' },
-  { name: 'oldlace', hex: '#FDF5E6' },
-  { name: 'bisque', hex: '#FFE4C4' },
-  { name: 'blanchedalmond', hex: '#FFEBCD' },
-  { name: 'coral', hex: '#FF7F50' },
-  { name: 'cornsilk', hex: '#FFF8DC' },
-  { name: 'darkorange', hex: '#FF8C00' },
-  { name: 'deeppink', hex: '#FF1493' },
-  { name: 'floralwhite', hex: '#FFFAF0' },
-  { name: 'fuchsia', hex: '#FF00FF' },
-  { name: 'gold', hex: '#FFD700' },
-  { name: 'hotpink', hex: '#FF69B4' },
-  { name: 'ivory', hex: '#FFFFF0' },
-  { name: 'lavenderblush', hex: '#FFF0F5' },
-  { name: 'lemonchiffon', hex: '#FFFACD' },
-  { name: 'lightpink', hex: '#FFB6C1' },
-  { name: 'lightsalmon', hex: '#FFA07A' },
-  { name: 'lightyellow', hex: '#FFFFE0' },
-  { name: 'magenta', hex: '#FF00FF' },
-  { name: 'mistyrose', hex: '#FFE4E1' },
-  { name: 'moccasin', hex: '#FFE4B5' },
-  { name: 'navajowhite', hex: '#FFDEAD' },
-  { name: 'orange', hex: '#FFA500' },
-  { name: 'orangered', hex: '#FF4500' },
-  { name: 'papayawhip', hex: '#FFEFD5' },
-  { name: 'peachpuff', hex: '#FFDAB9' },
-  { name: 'pink', hex: '#FFC0CB' },
-  { name: 'red', hex: '#FF0000' },
-  { name: 'seashell', hex: '#FFF5EE' },
-  { name: 'snow', hex: '#FFFAFA' },
-  { name: 'tomato', hex: '#FF6347' },
-  { name: 'white', hex: '#FFFFFF' },
-  { name: 'yellow', hex: '#FFFF00' }
+  aqua
+```palette
+#00FFFF
+```
+  aliceblue
+```palette
+#F0F8FF
+```
+  antiquewhite
+```palette
+#FAEBD7
+```
+  black
+```palette
+#000000
+```
+  blue
+```palette
+#0000FF
+```
+  cyan
+```palette
+#00FFFF
+```
+  darkblue
+```palette
+#00008B
+```
+  darkcyan
+```palette
+#008B8B
+```
+  darkgreen
+```palette
+#006400
+```
+  darkturquoise
+```palette
+#00CED1
+```
+  deepskyblue
+```palette
+#00BFFF
+```
+  green
+```palette
+#008000
+```
+  lime
+```palette
+#00FF00
+```
+  mediumblue
+```palette
+#0000CD
+```
+  mediumspringgreen
+```palette
+#00FA9A
+```
+  navy
+```palette
+#000080
+```
+  springgreen
+```palette
+#00FF7F
+```
+  teal
+```palette
+#008080
+```
+  midnightblue
+```palette
+#191970
+```
+  dodgerblue
+```palette
+#1E90FF
+```
+  lightseagreen
+```palette
+#20B2AA
+```
+  forestgreen
+```palette
+#228B22
+```
+  seagreen
+```palette
+#2E8B57
+```
+  darkslategray
+```palette
+#2F4F4F
+```
+  darkslategrey
+```palette
+#2F4F4F
+```
+  limegreen
+```palette
+#32CD32
+```
+  mediumseagreen
+```palette
+#3CB371
+```
+  turquoise
+```palette
+#40E0D0
+```
+  royalblue
+```palette
+#4169E1
+```
+  steelblue
+```palette
+#4682B4
+```
+  darkslateblue
+```palette
+#483D8B
+```
+  mediumturquoise
+```palette
+#48D1CC
+```
+  indigo
+```palette
+#4B0082
+```
+  darkolivegreen
+```palette
+#556B2F
+```
+  cadetblue
+```palette
+#5F9EA0
+```
+  cornflowerblue
+```palette
+#6495ED
+```
+  mediumaquamarine
+```palette
+#66CDAA
+```
+  dimgray
+```palette
+#696969
+```
+  dimgrey
+```palette
+#696969
+```
+  slateblue
+```palette
+#6A5ACD
+```
+  olivedrab
+```palette
+#6B8E23
+```
+  slategray
+```palette
+#708090
+```
+  slategrey
+```palette
+#708090
+```
+  lightslategray
+```palette
+#778899
+```
+  lightslategrey
+```palette
+#778899
+```
+  mediumslateblue
+```palette
+#7B68EE
+```
+  lawngreen
+```palette
+#7CFC00
+```
+  aquamarine
+```palette
+#7FFFD4
+```
+  chartreuse
+```palette
+#7FFF00
+```
+  gray
+```palette
+#808080
+```
+  grey
+```palette
+#808080
+```
+  maroon
+```palette
+#800000
+```
+  olive
+```palette
+#808000
+```
+  purple
+```palette
+#800080
+```
+  lightskyblue
+```palette
+#87CEFA
+```
+  skyblue
+```palette
+#87CEEB
+```
+  blueviolet
+```palette
+#8A2BE2
+```
+  darkmagenta
+```palette
+#8B008B
+```
+  darkred
+```palette
+#8B0000
+```
+  saddlebrown
+```palette
+#8B4513
+```
+  darkseagreen
+```palette
+#8FBC8F
+```
+  lightgreen
+```palette
+#90EE90
+```
+  mediumpurple
+```palette
+#9370DB
+```
+  darkviolet
+```palette
+#9400D3
+```
+  palegreen
+```palette
+#98FB98
+```
+  darkorchid
+```palette
+#9932CC
+```
+  yellowgreen
+```palette
+#9ACD32
+```
+  sienna
+```palette
+#A0522D
+```
+  brown
+```palette
+#A52A2A
+```
+  darkgray
+```palette
+#A9A9A9
+```
+  darkgrey
+```palette
+#A9A9A9
+```
+  greenyellow
+```palette
+#ADFF2F
+```
+  lightblue
+```palette
+#ADD8E6
+```
+  paleturquoise
+```palette
+#AFEEEE
+```
+  lightsteelblue
+```palette
+#B0C4DE
+```
+  powderblue
+```palette
+#B0E0E6
+```
+  firebrick
+```palette
+#B22222
+```
+  darkgoldenrod
+```palette
+#B8860B
+```
+  mediumorchid
+```palette
+#BA55D3
+```
+  rosybrown
+```palette
+#BC8F8F
+```
+  darkkhaki
+```palette
+#BDB76B
+```
+  silver
+```palette
+#C0C0C0
+```
+  mediumvioletred
+```palette
+#C71585
+```
+  indianred
+```palette
+#CD5C5C
+```
+  peru
+```palette
+#CD853F
+```
+  chocolate
+```palette
+#D2691E
+```
+  tan
+```palette
+#D2B48C
+```
+  lightgray
+```palette
+#D3D3D3
+```
+  lightgrey
+```palette
+#D3D3D3
+```
+  thistle
+```palette
+#D8BFD8
+```
+  goldenrod
+```palette
+#DAA520
+```
+  orchid
+```palette
+#DA70D6
+```
+  palevioletred
+```palette
+#DB7093
+```
+  crimson
+```palette
+#DC143C
+```
+  gainsboro
+```palette
+#DCDCDC
+```
+  plum
+```palette
+#DDA0DD
+```
+  burlywood
+```palette
+#DEB887
+```
+  lightcyan
+```palette
+#E0FFFF
+```
+  lavender
+```palette
+#E6E6FA
+```
+  darksalmon
+```palette
+#E9967A
+```
+  palegoldenrod
+```palette
+#EEE8AA
+```
+  violet
+```palette
+#EE82EE
+```
+  azure
+```palette
+#F0FFFF
+```
+  honeydew
+```palette
+#F0FFF0
+```
+  khaki
+```palette
+#F0E68C
+```
+  lightcoral
+```palette
+#F08080
+```
+  sandybrown
+```palette
+#F4A460
+```
+  beige
+```palette
+#F5F5DC
+```
+  mintcream
+```palette
+#F5FFFA
+```
+  wheat
+```palette
+#F5DEB3
+```
+  whitesmoke
+```palette
+#F5F5F5
+```
+  ghostwhite
+```palette
+#F8F8FF
+```
+
+  lightgoldenrodyellow
+  ```palette
+    #FAFAD2
+```
+  linen
+```palette
+#FAF0E6
+```
+  salmon
+```palette
+#FA8072
+```
+  oldlace
+```palette
+#FDF5E6
+```
+  bisque
+```palette
+#FFE4C4
+```
+  blanchedalmond
+```palette
+#FFEBCD
+```
+  coral
+```palette
+#FF7F50
+```
+  cornsilk
+```palette
+#FFF8DC
+```
+  darkorange
+```palette
+#FF8C00
+```
+  deeppink
+```palette
+#FF1493
+```
+  floralwhite
+```palette
+#FFFAF0
+```
+  fuchsia
+```palette
+#FF00FF
+```
+  gold
+```palette
+#FFD700
+```
+  hotpink
+```palette
+#FF69B4
+```
+  ivory
+```palette
+#FFFFF0
+```
+  lavenderblush
+```palette
+#FFF0F5
+```
+  lemonchiffon
+```palette
+#FFFACD
+```
+  lightpink
+```palette
+#FFB6C1
+```
+  lightsalmon
+```palette
+#FFA07A
+```
+  lightyellow
+```palette
+#FFFFE0
+```
+  magenta
+```palette
+#FF00FF
+```
+  mistyrose
+```palette
+#FFE4E1
+```
+  moccasin
+```palette
+#FFE4B5
+```
+  navajowhite
+```palette
+#FFDEAD
+```
+  orange
+```palette
+#FFA500
+```
+  orangered
+```palette
+#FF4500
+```
+  papayawhip
+```palette
+#FFEFD5
+```
+  peachpuff
+```palette
+#FFDAB9
+```
+  pink
+```palette
+#FFC0CB
+```
+  red
+```palette
+#FF0000
+```
+  seashell
+```palette
+#FFF5EE
+```
+  snow
+```palette
+#FFFAFA
+```
+  tomato
+```palette
+#FF6347
+```
+  white
+```palette
+#FFFFFF
+```
+  yellow
+```palette
+#FFFF00
+```

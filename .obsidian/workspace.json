@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Lists/standards/x11.md",
+                "file": "Color Lists/standards/NTC.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,6 +36,14 @@
             "type": "leaf",
             "state": {
               "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a75e386d7079fa1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
@@ -117,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Lists/standards/x11.md",
+                "file": "Color Lists/standards/NTC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Lists/standards/x11.md",
+                "file": "Color Lists/standards/NTC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Color Lists/standards/x11.md"
+                "file": "Color Lists/standards/NTC.md"
               }
             }
           }
@@ -170,14 +178,17 @@
   },
   "active": "5239b88ae21db068",
   "lastOpenFiles": [
+    "Color Lists/standards/x11.md",
+    "Color Lists/standards/NTC.md",
+    "Color Lists/standards/HTML.md",
+    "Color Lists/standards/Basic Colors.md",
+    "General/Color Info Standard Lists.md",
     "Color Lists/standards/NTC_v3.csv",
     "Color Lists/standards/NTC_v2 copy.csv",
     "Color Lists/standards/x11.csv",
     "Color Lists/standards/x11 copy.md",
     "Color Lists/standards/HTML.csv",
     "Color Lists/standards/HTML copy.md",
-    "General/Color Info Standard Lists.md",
-    "Color Lists/standards/x11.md",
     "Color Lists/This Book/Yellow Variations.md",
     "Color Lists/This Book/This Book is Yellow.md",
     "Color Lists/This Book/This Book is Yellow.canvas",
@@ -188,7 +199,6 @@
     "Color Lists/coolors/🟧 Orange.md",
     "Color Lists/coolors/🟥 Red.md",
     "Color Names/FFE700.md",
-    "Color Lists/standards/NTC.md",
     "Color Names/800080.md",
     "Color Lists/linkchange.sh",
     "Color Names/FFB97B.md",
@@ -200,14 +210,12 @@
     "Color Names/E49B0F.md",
     "Color Names/EE82EE.md",
     "Color Names/FF00FF.md",
-    "Color Names/FF7518.md",
     "Color Names/NTC_v2.csv",
     "Color Names",
     "Color Lists/standards/create_svg_v2.py",
     "Color Lists/standards/NTC_v2.csv",
     "LICENSE",
     "General/attachments/0002 (1080) p3.png",
-    "General/Spotlights",
     "General/attachments/Color Snake Palette 001 (1920).png"
   ]
 }
