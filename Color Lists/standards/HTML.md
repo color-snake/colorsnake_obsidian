@@ -8,90 +8,134 @@ https://github.com/colorjs/color-namer/blob/master/lib/colors/html.js
 ```palette
 #00FFFF
 ```
-  aliceblue
+- [[00FFFF]]
+
+aliceblue
 ```palette
 #F0F8FF
 ```
+- [[F0F8FF]]
+
   antiquewhite
 ```palette
 #FAEBD7
 ```
+- [[FAEBD7]]
+
   black
 ```palette
 #000000
 ```
+- [[000000]]
+
   blue
 ```palette
 #0000FF
 ```
+- [[0000FF]]
+
   cyan
 ```palette
 #00FFFF
 ```
+- [[00FFFF]]
+
   darkblue
 ```palette
 #00008B
 ```
+- [[00008B]]
+
   darkcyan
 ```palette
 #008B8B
 ```
+- [[008B8B]]
+
   darkgreen
 ```palette
 #006400
 ```
+- [[006400]]
+
   darkturquoise
 ```palette
 #00CED1
 ```
+- [[00CED1]]
+
   deepskyblue
 ```palette
 #00BFFF
 ```
+- [[00BFFF]]
+
   green
 ```palette
 #008000
 ```
+- [[008000]]
+
   lime
 ```palette
 #00FF00
 ```
+- [[00FF00]]
+
   mediumblue
 ```palette
 #0000CD
 ```
+- [[0000CD]]
+
   mediumspringgreen
 ```palette
 #00FA9A
 ```
+- [[00FA9A]]
+
   navy
 ```palette
 #000080
 ```
+- [[000080]]
+
   springgreen
 ```palette
 #00FF7F
 ```
+- [[00FF7F]]
+
   teal
 ```palette
 #008080
 ```
+- [[008080]]
+
   midnightblue
 ```palette
 #191970
 ```
+- [[191970]]
+
   dodgerblue
 ```palette
 #1E90FF
 ```
+- [[1E90FF]]
+
   lightseagreen
 ```palette
 #20B2AA
 ```
+- [[20B2AA]]
+
   forestgreen
 ```palette
 #228B22
 ```
+- [[228B22]]
+
   seagreen
 ```palette
 #2E8B57
