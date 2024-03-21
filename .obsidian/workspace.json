@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Lists/standards/x11.md",
+                "file": "Color Names/FFE4E1.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Lists/standards/x11.md",
+                "file": "Color Names/FFE4E1.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Color Lists/standards/x11.md"
+                "file": "Color Names/FFE4E1.MD"
               }
             }
           }
@@ -193,10 +193,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a8965c2efbcbddb4",
+  "active": "797706893892823b",
   "lastOpenFiles": [
-    "Color Names/FFE4E1.MD",
     "Color Lists/standards/x11.md",
+    "Color Names/FFE4E1.MD",
     "Color Names/CD5C5C.md",
     "Color Names/FF69B4.md",
     "Color Names/00CED1.MD",
