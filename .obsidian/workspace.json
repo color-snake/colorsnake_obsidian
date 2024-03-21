@@ -26,9 +26,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "7f79996ae44f8e81",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,8 +161,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e76663cf103c501a",
+  "active": "7f79996ae44f8e81",
   "lastOpenFiles": [
+    "Color Lists/standards/NTC_svg_create.py",
+    "Color Lists/standards/x11_svg_create.py",
+    "Color Lists/standards/html_svg_create.py",
+    "Color Lists/md_update.py",
     "Color Lists/standards/x11.md",
     "Color Names/FFD700.md",
     "Color Names/4B0082.md",
@@ -180,7 +192,6 @@
     "Color Names/FFFAFA.MD",
     "Color Names/FFFFE0.MD",
     "Color Lists/This Book/This Book is Yellow.md",
-    "Color Names/FEFE22.md",
     "Color Names/x11_tag.sh",
     "Color Names/ntc_tag copy.sh",
     "Color Names/html_tag.sh",
@@ -188,9 +199,6 @@
     "Color Names/ntc-tag.sh",
     "Color Names/tag.sh",
     "Color Names/x11.csv",
-    "Color Names/NTC_v3.csv",
-    "Color Names/HTML.csv",
-    "Color Names/difference.sh",
     "Color Lists/This Book/This Book is Yellow.canvas",
     "General/attachments/0002 (1080) p3.png",
     "General/attachments/Color Snake Palette 001 (1920).png"
