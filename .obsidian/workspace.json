@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Names/000000.md",
+                "file": "Color Names/0B1304.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Names/000000.md",
+                "file": "Color Names/0B1304.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Names/000000.md",
+                "file": "Color Names/0B1304.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Color Names/000000.md"
+                "file": "Color Names/0B1304.md"
               }
             }
           }
@@ -169,38 +168,39 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e1901802baff68da",
+  "active": "a8965c2efbcbddb4",
   "lastOpenFiles": [
-    "Color Names/0B1107.md",
+    "Color Names/051657.md",
+    "Color Names/0076A3.md",
+    "Color Names/00755E.md",
+    "Color Names/0066FF.md",
+    "Color Names/0066CC.md",
+    "Color Names/00581A.md",
+    "Color Names/0056A7.md",
+    "Color Names/004950.md",
+    "Color Names/004816.md",
+    "Color Names/0047AB.md",
+    "Color Names/004620.md",
+    "Color Names/003E40.md",
+    "Color Names/003532.md",
+    "Color Names/003399.md",
+    "Color Names/003366.md",
+    "Color Names/003153.md",
+    "Color Names/002FA7.md",
+    "Color Names/002E20.md",
+    "Color Names/002900.md",
+    "Color Names/002387.md",
+    "Color Names/001B1C.md",
+    "Color Names/000741.md",
+    "Color Names/0000FF.md",
+    "Color Names/0000C8.md",
+    "Color Names/000080.md",
+    "Color Names/000000.md",
     "Color Names/x11_tag.sh",
     "Color Names/ntc_tag copy.sh",
     "Color Names/html_tag.sh",
     "Color Names/ntc_tag.sh",
     "Color Names/ntc-tag.sh",
-    "Color Names/0B6207.md",
-    "Color Names/0BDA51.md",
-    "Color Names/0C0B1D.md",
-    "Color Names/00BFFF.MD",
-    "Color Names/0B0B0B.md",
-    "Color Names/0A6906.md",
-    "Color Names/0A480D.md",
-    "Color Names/0A6F75.md",
-    "Color Names/000000.md",
-    "Color Names/0A001C.md",
-    "Color Names/00A86B.md",
-    "Color Names/8B4513.MD",
-    "Color Names/00CED1.MD",
-    "Color Names/00CCCC.md",
-    "Color Names/00CC99.md",
-    "Color Names/0C8990.md",
-    "Color Names/0C1911.md",
-    "Color Names/0000C8.md",
-    "Color Names/0B0F08.md",
-    "Color Names/0C0D0F.md",
-    "Color Names/0B1304.md",
-    "Color Names/0C7A79.md",
-    "Color Names/0D1C19.md",
-    "Color Names/0E2A30.md",
     "Color Names/tag.sh",
     "Color Names/x11.csv",
     "Color Names/NTC_v3.csv",
