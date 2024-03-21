@@ -21,9 +21,15 @@ Swamp,#001B1C"
 
 The NTC one is the largest I want to run a command from the terminal to create a csv file that has names and hex for colors in the "HTML.csv" and  "x11.csv" that are not in the NTC_v3.csv, and lets name the file standard_difference.csv
 
-Chat GTP Response:
+**Chat GTP final Response:**
 ```shell
-awk -F, 'FNR==NR{a[$2];next} !($2 in a)' NTC_v3.csv HTML.csv x11.csv | sort > standard_difference.csv
+awk -F, 'FNR==NR{a[tolower($2)]; next} !(tolower($2) in a)' NTC_v3.csv HTML.csv x11.csv | sort | uniq > standard_difference.csv
 ```
 
+**Note:**
+I don't know what I will do with this file, but at least I have it! Use it for next task...
+
 ---
+
+Now create markdown files like this from the standard_difference.csv.
+

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Lists/standards/To Chat GPT.md",
+                "file": "Color Lists/To Chat GPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Lists/standards/To Chat GPT.md",
+                "file": "Color Lists/To Chat GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Lists/standards/To Chat GPT.md",
+                "file": "Color Lists/To Chat GPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Color Lists/standards/To Chat GPT.md"
+                "file": "Color Lists/To Chat GPT.md"
               }
             }
           }
@@ -178,43 +178,43 @@
   },
   "active": "5239b88ae21db068",
   "lastOpenFiles": [
+    "Color Names/difference.sh",
+    "Color Names/FFFFE0.MD",
+    "Color Names/FFFAFA.MD",
+    "Color Names/FFFAF0.MD",
+    "Color Names/FFF8DC.MD",
+    "Color Names/FFEBCD.MD",
+    "Color Names/FFE4E1.MD",
+    "Color Names/FFE4C4.MD",
+    "Color Names/FFE4B5.MD",
+    "Color Names/FFDAB9.MD",
+    "Color Names/FFB6C1.MD",
+    "Color Names/FFA07A.MD",
+    "Color Names/FF4500.MD",
+    "Color Names/FF1493.MD",
+    "Color Names/FF8C00.MD",
+    "Color Names/FAFAD2.MD",
+    "Color Names/FA8072.MD",
+    "Color Names/F08080.MD",
+    "Color Names/F8F8FF.MD",
+    "Color Names/F5FFFA.MD",
+    "Color Names/F5F5F5.MD",
+    "Color Names/F0FFFF.MD",
+    "Color Names/F0FFF0.MD",
+    "Color Names/EEE8AA.MD",
+    "Color Names/E9967A.MD",
+    "Color Names/E6E6FA.MD",
+    "Color Names/standard_difference.csv",
     "Color Lists/standards/standard_difference.csv",
-    "Color Lists/standards/NTC.md",
-    "Color Lists/standards/To Chat GPT.md",
-    "Color Lists/standards/x11.md",
-    "Color Lists/standards/HTML.md",
-    "Color Lists/standards/Basic Colors.md",
-    "General/Color Info Standard Lists.md",
     "Color Lists/standards/NTC_v3.csv",
     "Color Lists/standards/NTC_v2 copy.csv",
     "Color Lists/standards/x11.csv",
-    "Color Lists/standards/x11 copy.md",
     "Color Lists/standards/HTML.csv",
-    "Color Lists/standards/HTML copy.md",
-    "Color Lists/This Book/Yellow Variations.md",
-    "Color Lists/This Book/This Book is Yellow.md",
     "Color Lists/This Book/This Book is Yellow.canvas",
-    "Color Lists/coolors/🟫 Brown.md",
-    "Color Lists/coolors/🟪 Purple and Pink.md",
-    "Color Lists/coolors/🟩 Green.md",
-    "Color Lists/coolors/🟨 Yellow.md",
-    "Color Lists/coolors/🟧 Orange.md",
-    "Color Lists/coolors/🟥 Red.md",
-    "Color Names/FFE700.md",
-    "Color Names/800080.md",
     "Color Lists/linkchange.sh",
-    "Color Names/FFB97B.md",
-    "Color Names/EF9B0F.md",
-    "Color Names/ED7936.md",
-    "Color Names/E0AB76.md",
-    "Color Names/D2F5D6.md",
-    "Color Names/4B0082.md",
-    "Color Names/E49B0F.md",
     "Color Names/NTC_v2.csv",
     "Color Names",
     "Color Lists/standards/create_svg_v2.py",
-    "Color Lists/standards/NTC_v2.csv",
-    "LICENSE",
     "General/attachments/0002 (1080) p3.png",
     "General/attachments/Color Snake Palette 001 (1920).png"
   ]
