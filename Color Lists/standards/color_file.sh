@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Read the CSV file (assuming it's named "colors.csv")
+# Read the CSV file (assuming it's named "NTC.csv")
 while IFS=, read -r name hex; do
     # Create a file with the hex value as the name
     touch "$hex.md"

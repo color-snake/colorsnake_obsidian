@@ -1,6 +1,7 @@
 ---
 tags:
   - Color/White
+  - Color/Tag/NTC
 img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Color%20Thumbnails/%23FFFFFF%20(1920).png
 RGB: 255, 255, 255
 Hex: "#FFFFFF"
