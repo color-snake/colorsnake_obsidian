@@ -35,17 +35,9 @@
             "id": "7927a9c2f55e49dd",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "1937cb48dc67d98d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Lists/standards/x11.md",
+                "file": "Color Lists/This Book/Yellow Variations.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Color Lists/This Book/Yellow Variations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Color Lists/This Book/Yellow Variations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Color Lists/This Book/Yellow Variations.md"
+              }
             }
           }
         ]
@@ -176,16 +172,23 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7927a9c2f55e49dd",
+  "active": "8ea2ac7392507fc5",
   "lastOpenFiles": [
-    "Color Names/FFE700.md",
+    "Color Lists/This Book/This Book is Yellow.md",
+    "Color Lists/This Book/This Book is Yellow.canvas",
+    "Color Lists/coolors/🟫 Brown.md",
+    "Color Lists/coolors/🟪 Purple and Pink.md",
+    "Color Lists/coolors/🟩 Green.md",
+    "Color Lists/coolors/🟨 Yellow.md",
+    "Color Lists/coolors/🟧 Orange.md",
+    "Color Lists/coolors/🟥 Red.md",
     "Color Lists/standards/x11.md",
+    "General/Color Info Standard Lists.md",
+    "Color Names/FFE700.md",
     "Color Lists/standards/NTC.md",
     "Color Names/800080.md",
-    "General/Color Info Standard Lists.md",
     "Color Lists/linkchange.sh",
     "Color Names/FFB97B.md",
-    "Color Lists/This Book is Yellow.md",
     "Color Names/EF9B0F.md",
     "Color Names/ED7936.md",
     "Color Names/E0AB76.md",
@@ -198,16 +201,8 @@
     "Color Names/FFA500.md",
     "Color Names/C3B091.md",
     "Color Names/FFBF00.md",
-    "Color Names/0000FF.md",
-    "Color Names/FF4F00.md",
-    "Color Names/FEFE22.md",
-    "General/Social Description and Ideas.md",
-    "Color Snake Palettes/Palette 0001.md",
-    "Color Snake Palettes/Palette 0005.md",
-    "General/Templates/Advanced Template.md",
     "Color Names/NTC_v2.csv",
     "Color Names",
-    "Color Lists/This Book/This Book is Yellow.canvas",
     "Color Lists/standards/create_svg_v2.py",
     "Color Lists/standards/NTC_v2.csv",
     "LICENSE",

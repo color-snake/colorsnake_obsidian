@@ -37,8 +37,6 @@ A shade is achieved by adding black to any pure hue
 #000000
 ```
 
-
-
 - HSL 60°, 100, 50
 - HSL 60°, 100, 40
 - HSL 60°, 100, 30
@@ -58,7 +56,6 @@ A tone is produced by adding gray to any pure hue.
 #999966
 #808080
 ```
-
 
 - HSL 60°, 100, 50
 - HSL 60°, 80, 50
