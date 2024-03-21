@@ -111,8 +111,7 @@ mintcream,#F5FFFA
 wheat,#F5DEB3
 whitesmoke,#F5F5F5
 ghostwhite,#F8F8FF
-lightgoldenrodyellow',
-  hex: '#FAFAD2
+lightgoldenrodyellow,#FAFAD2
 linen,#FAF0E6
 salmon,#FA8072
 oldlace,#FDF5E6
@@ -146,4 +145,4 @@ seashell,#FFF5EE
 snow,#FFFAFA
 tomato,#FF6347
 white,#FFFFFF
-yellow,#FFFF00' }
+yellow,#FFFF00
