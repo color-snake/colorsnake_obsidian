@@ -6,7 +6,7 @@ tags:
   - Color/Yellow
 RBG: 
 Hex: "#FFF8DC"
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/%23/#FFF8DC.svg
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg//#FFF8DC.svg
 CMYK: 
 HSL: 
 Name: cornsilk

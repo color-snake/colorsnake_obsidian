@@ -5,7 +5,7 @@ tags:
   - Color/Tag/NTC
 RGB: 255, 191, 0
 Hex: "#FFBF00"
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/%23/FFBF00.svg
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg//FFBF00.svg
 CMYK: 0, 25, 100, 0
 HSL: 44.9°, 100, 50
 Name: Amber

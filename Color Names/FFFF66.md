@@ -4,7 +4,7 @@ tags:
   - Color/Yellow
 RGB:
 Hex:
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/%23/FFFF66.svg
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg//FFFF66.svg
 CMYK:
 HSL:
 Name:

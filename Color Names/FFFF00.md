@@ -7,7 +7,7 @@ tags:
   - Color/Tag/NTC
 RGB: 255, 255, 0
 Hex: "#FFFF00"
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/%23/FFFF00.svg
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg//FFFF00.svg
 CMYK: 0, 0, 100, 0
 HSL: 60°, 100, 50
 Name: Yellow

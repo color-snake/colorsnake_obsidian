@@ -3,7 +3,7 @@ tags:
   - Color/Tag/NTC
 RGB:
 Hex:
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/%23/F4EBD3.svg
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg//F4EBD3.svg
 CMYK:
 HSL:
 Name:

@@ -6,7 +6,7 @@ def update_markdown_files(folder_path):
         if filename.endswith('.md'):
             # Extract hex value from markdown filename
             hex_value = filename.split('.')[0]
-            img_link = f"https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/%23/{hex_value}.svg"
+            img_link = f"https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg//{hex_value}.svg"
             with open(os.path.join(folder_path, filename), 'r+') as file:
                 content = file.readlines()
 
