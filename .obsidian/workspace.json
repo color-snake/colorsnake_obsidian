@@ -34,9 +34,17 @@
               "type": "obsidian-projects",
               "state": {}
             }
+          },
+          {
+            "id": "f566ad8424d0fc42",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Color Lists/standards/x11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Color Lists/standards/x11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Color Lists/standards/x11.md"
+              }
             }
           }
         ],
@@ -161,7 +173,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7f79996ae44f8e81",
+  "active": "f566ad8424d0fc42",
   "lastOpenFiles": [
     "Color Lists/standards/NTC_svg_create.py",
     "Color Lists/standards/x11_svg_create.py",

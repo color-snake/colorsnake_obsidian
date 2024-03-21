@@ -39,7 +39,7 @@
               {
                 "field": "tags",
                 "operator": "has-none-of",
-                "enabled": true,
+                "enabled": false,
                 "value": "[\"Color/Tag/NTC\"]"
               }
             ]

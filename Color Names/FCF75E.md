@@ -3,7 +3,7 @@ tags:
   - Color/Yellow
 RGB:
 Hex: "#FCF75E"
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/SVG_Tumb%20Mass%20No%20Name/FCF75E.svg
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/%23/FCF75E.svg
 CMYK:
 HSL:
 Name: Icterine

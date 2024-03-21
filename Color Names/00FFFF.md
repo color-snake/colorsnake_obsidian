@@ -7,7 +7,7 @@ tags:
   - Color/Blue
 RGB: 
 Hex: 
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/SVG_Tumb%20Mass%20No%20Name/00FFFF.svg
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/%23/00FFFF.svg
 CMYK: 
 HSL: 
 Name: 
