@@ -5,7 +5,7 @@ tags:
   - Color/Tag/NTC
 RGB: 
 Hex: "#FF00FF"
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg//FF00FF.svg
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/FF00FF.svg
 CMYK: 
 HSL: 
 Name: Magenta

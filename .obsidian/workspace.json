@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f7ade63e6c3c95e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Lists/standards/x11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e76663cf103c501a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "7f79996ae44f8e81",
             "type": "leaf",
             "state": {
@@ -36,15 +16,14 @@
             }
           },
           {
-            "id": "f566ad8424d0fc42",
+            "id": "812a75c83c8a607a",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Lists/standards/x11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Lists/standards/x11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Color Lists/standards/x11.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -173,8 +148,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "f566ad8424d0fc42",
+  "active": "7f79996ae44f8e81",
   "lastOpenFiles": [
+    "Color Names/FFFFF0.md",
+    "Color Names/000000.md",
+    "Color Names/FFFFFF.md",
     "Color Lists/standards/NTC_svg_create.py",
     "Color Lists/standards/x11_svg_create.py",
     "Color Lists/standards/html_svg_create.py",
@@ -202,15 +180,12 @@
     "Color Names/FFF8DC.MD",
     "Color Names/FFFAF0.MD",
     "Color Names/FFFAFA.MD",
-    "Color Names/FFFFE0.MD",
-    "Color Lists/This Book/This Book is Yellow.md",
     "Color Names/x11_tag.sh",
     "Color Names/ntc_tag copy.sh",
     "Color Names/html_tag.sh",
     "Color Names/ntc_tag.sh",
     "Color Names/ntc-tag.sh",
     "Color Names/tag.sh",
-    "Color Names/x11.csv",
     "Color Lists/This Book/This Book is Yellow.canvas",
     "General/attachments/0002 (1080) p3.png",
     "General/attachments/Color Snake Palette 001 (1920).png"
