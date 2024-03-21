@@ -30,11 +30,13 @@ def update_markdown_folder(folder_path, colors):
                 if tag_to_add not in content:
                     print("Adding tag to file:", file_path)  # Debugging print
                     # Add the tag to the YAML section
-                    yaml_start = content.find('---') + 3
-                    yaml_end = content.find('---', yaml_start)
-                    yaml_content = content[yaml_start:yaml_end].strip()
-                    updated_yaml = yaml_content + "\n  " + tag_to_add + "\n---"
-                    content = content[:yaml_start] + updated_yaml + content[yaml_end:]
+                    yaml_match = re.match(r'^---(.*?)---', content, re.DOTALL)
+                    if yaml_match:
+                        yaml_content = yaml_match.group(1).strip()
+                        updated_yaml = yaml_content + "\n  - " + tag_to_add + "\n---\n"
+                        content = content.replace(yaml_match.group(0), updated_yaml)
+                    else:
+                        print("YAML section not found in file:", file_path)  # Debugging print
 
             # Write back the updated content to the file
             with open(file_path, 'w') as f:
