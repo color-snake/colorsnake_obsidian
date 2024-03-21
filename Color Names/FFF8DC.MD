@@ -1,10 +1,14 @@
 ---
 tags:
-RBG:
+  - Color/Tag/HTML
+  - Color/Tag/x11
+  - Color/White
+  - Color/Yellow
+RBG: 
 Hex: "#FFF8DC"
 img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/SVG_Tumb%20Mass%20No%20Name/#FFF8DC.svg
-CMYK:
-HSL:
+CMYK: 
+HSL: 
 Name: cornsilk
 ---
 cornsilk

@@ -1,6 +1,6 @@
 import csv
 import os
-import re
+import yaml
 
 # Function to read the CSV file and store color names and hex values
 def read_csv(csv_file):
@@ -21,7 +21,7 @@ def update_markdown_folder(folder_path, colors):
                 content = f.read()
 
             # Extract color name from file name
-            color_name = re.match(r'^([0-9A-Fa-f]+)\.md$', filename).group(1).upper()
+            color_name = os.path.splitext(filename)[0].upper()
 
             # Check if color name exists in CSV data
             if color_name in colors:
@@ -29,18 +29,21 @@ def update_markdown_folder(folder_path, colors):
                 tag_to_add = "- Color/Tag/x11"
                 if tag_to_add not in content:
                     print("Adding tag to file:", file_path)  # Debugging print
-                    # Add the tag to the YAML section
-                    yaml_match = re.match(r'^---(.*?)---', content, re.DOTALL)
-                    if yaml_match:
-                        yaml_content = yaml_match.group(1).strip()
-                        updated_yaml = yaml_content + "\n  - " + tag_to_add + "\n---\n"
-                        content = content.replace(yaml_match.group(0), updated_yaml)
+                    # Load YAML front matter
+                    yaml_end = content.find('---', 4)
+                    yaml_front_matter = content[4:yaml_end].strip()
+                    data = yaml.safe_load(yaml_front_matter)
+                    if 'tags' in data:
+                        data['tags'].append(tag_to_add)
                     else:
-                        print("YAML section not found in file:", file_path)  # Debugging print
+                        data['tags'] = [tag_to_add]
 
-            # Write back the updated content to the file
-            with open(file_path, 'w') as f:
-                f.write(content)
+                    # Update content with modified YAML front matter
+                    updated_content = '---\n' + yaml.dump(data, default_flow_style=False) + '---\n' + content[yaml_end+3:]
+
+                    # Write back the updated content to the file
+                    with open(file_path, 'w') as f:
+                        f.write(updated_content)
 
 if __name__ == "__main__":
     csv_file = "x11.csv"

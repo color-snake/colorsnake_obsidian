@@ -1,3 +1,10 @@
+---
+tags:
+  - Palette
+img: 
+Palette ID#: 
+Shared:
+---
 Go Tell it On the Mountain
 ```palette
 #5ABD3C

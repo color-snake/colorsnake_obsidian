@@ -1,10 +1,13 @@
 ---
 tags:
-RBG:
+  - Color/Tag/HTML
+  - Color/Tag/x11
+  - Color/Pink
+RBG: 
 Hex: "#FFE4E1"
 img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/SVG_Tumb%20Mass%20No%20Name/#FFE4E1.svg
-CMYK:
-HSL:
+CMYK: 
+HSL: 
 Name: mistyrose
 ---
 mistyrose
