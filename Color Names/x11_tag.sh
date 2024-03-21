@@ -16,6 +16,7 @@ def update_markdown_folder(folder_path, colors):
     for filename in os.listdir(folder_path):
         if filename.endswith(".md"):
             file_path = os.path.join(folder_path, filename)
+            print("Processing file:", file_path)  # Debugging print
             with open(file_path, 'r') as f:
                 content = f.read()
 
@@ -27,12 +28,17 @@ def update_markdown_folder(folder_path, colors):
                 hex_value = colors[color_name]
                 tag_to_add = "- Color/Tag/x11"
                 if tag_to_add not in content:
+                    print("Adding tag to file:", file_path)  # Debugging print
                     # Add the tag to the YAML section
-                    yaml_section = re.search(r'---(.*?)---', content, re.DOTALL)
+                    yaml_section = re.search(r'^---(.*?)---', content, re.DOTALL | re.MULTILINE)
                     if yaml_section:
                         yaml_content = yaml_section.group(1)
                         updated_yaml = yaml_content.strip() + "\n  " + tag_to_add + "\n---"
-                        content = content.replace(yaml_content, updated_yaml)
+                        content = content.replace(yaml_section.group(0), updated_yaml)
+                    else:
+                        print("YAML section not found in file:", file_path)  # Debugging print
+                else:
+                    print("Tag already exists in file:", file_path)  # Debugging print
 
             # Write back the updated content to the file
             with open(file_path, 'w') as f:
