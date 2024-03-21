@@ -30,15 +30,11 @@ def update_markdown_folder(folder_path, colors):
                 if tag_to_add not in content:
                     print("Adding tag to file:", file_path)  # Debugging print
                     # Add the tag to the YAML section
-                    yaml_section = re.search(r'^---(.*?)---', content, re.DOTALL | re.MULTILINE)
-                    if yaml_section:
-                        yaml_content = yaml_section.group(1)
-                        updated_yaml = yaml_content.strip() + "\n  " + tag_to_add + "\n---"
-                        content = content.replace(yaml_section.group(0), updated_yaml)
-                    else:
-                        print("YAML section not found in file:", file_path)  # Debugging print
-                else:
-                    print("Tag already exists in file:", file_path)  # Debugging print
+                    yaml_start = content.find('---') + 3
+                    yaml_end = content.find('---', yaml_start)
+                    yaml_content = content[yaml_start:yaml_end].strip()
+                    updated_yaml = yaml_content + "\n  " + tag_to_add + "\n---"
+                    content = content[:yaml_start] + updated_yaml + content[yaml_end:]
 
             # Write back the updated content to the file
             with open(file_path, 'w') as f:
