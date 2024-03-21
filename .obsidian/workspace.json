@@ -19,12 +19,8 @@
             "id": "b45b68d085f00ceb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/00CED1.MD",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -142,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Names/00CED1.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Names/00CED1.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Color Names/00CED1.MD"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,12 +187,12 @@
   },
   "active": "b45b68d085f00ceb",
   "lastOpenFiles": [
+    "Color Names/00CED1.MD",
     "Color Names/87CEFA.MD",
     "Color Names/CD5C5C.md",
     "Color Names/FFE4E1.MD",
     "Color Lists/standards/x11.md",
     "Color Names/FF69B4.md",
-    "Color Names/00CED1.MD",
     "Color Names/FFD700.md",
     "Color Names/FFFF00.md",
     "Color Names/A52A2A.md",
