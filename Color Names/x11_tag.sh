@@ -18,30 +18,24 @@ def update_tags_in_markdown_files(directory, csv_file):
     
     for file_name in os.listdir(directory):
         if file_name.endswith('.md'):
-            markdown_file = os.path.join(directory, file_name)
-            with open(markdown_file, 'r') as file:
-                lines = file.readlines()
-
-            existing_tags = set()
-            tags_updated = False
-            for line in lines:
-                if line.strip().startswith("tags:"):
-                    tags_updated = True
-                    existing_tags.add(line.strip())
-                    
             hex_value = file_name.split('.')[0].lower()
-            if hex_value in x11_colors and tag_to_add not in existing_tags and not tags_updated:
-                with open(markdown_file, 'w') as file:
-                    for line in lines:
-                        if line.strip().startswith("tags:"):
-                            file.write(line.strip() + f", {tag_to_add}\n")
+            if hex_value in x11_colors:
+                markdown_file = os.path.join(directory, file_name)
+                with open(markdown_file, 'r') as file:
+                    lines = file.readlines()
+                
+                updated_tags = []
+                for line in lines:
+                    if line.strip().startswith("tags:"):
+                        if tag_to_add not in line:
+                            updated_tags.append(line.strip() + f", {tag_to_add}\n")
                         else:
-                            file.write(line)
-            elif not tags_updated:
+                            updated_tags.append(line)
+                    else:
+                        updated_tags.append(line)
+                
                 with open(markdown_file, 'w') as file:
-                    file.write("tags:\n")
-                    file.write(f"  {tag_to_add}\n")
-                    for line in lines:
+                    for line in updated_tags:
                         file.write(line)
 
 if __name__ == "__main__":
