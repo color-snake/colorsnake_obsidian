@@ -29,7 +29,7 @@ HTML
 
 
 ## Color Snake Name Standard
-- Names for every color not in another standard
+- ~~Names~~ for every color not in another standard
 - #Color/Tag/ColorSnakeColor
 - 
 

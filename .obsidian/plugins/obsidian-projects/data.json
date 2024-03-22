@@ -41,6 +41,11 @@
                 "operator": "has-none-of",
                 "enabled": true,
                 "value": "[\"Color/Tag/NTC\"]"
+              },
+              {
+                "field": "tags",
+                "operator": "is-empty",
+                "enabled": false
               }
             ]
           },

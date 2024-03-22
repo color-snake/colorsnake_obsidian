@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f79996ae44f8e81",
+            "id": "dbb66d56002ed98b",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -16,26 +16,27 @@
             }
           },
           {
-            "id": "b787e0a4c579bf47",
+            "id": "812a75c83c8a607a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Names/FFFFE0.MD",
+                "file": "Color Lists/Color Snake Color.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "812a75c83c8a607a",
+            "id": "ed2c52a948fd4210",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,44 +161,43 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7f79996ae44f8e81",
+  "active": "ed2c52a948fd4210",
   "lastOpenFiles": [
+    "Color Lists/Color Snake Color.md",
+    "Color Names/CEAF81.md",
+    "Color Names/CDB280.md",
+    "Color Names/D2F5D6.md",
+    "Color Names/DAA06D.md",
+    "Color Names/E0AB76.md",
+    "Color Names/ED7936.md",
+    "Color Names/EF9B0F.md",
+    "Color Names/F9E647.md",
+    "Color Names/FCF75E.md",
+    "Color Names/FEFE22.md",
+    "Color Names/FFFFFF.md",
+    "Color Names/FFE4C4.MD",
+    "Color Names/FFDE59.md",
+    "Color Lists/Color_Snake_CSV.csv",
+    "Color Lists/Color_Snake_CSv.csv",
+    "Color Lists/Color_Snake_CVS.csv",
+    "Color Names/FFE700.md",
+    "Color Lists/standards/NTC.md",
+    "Color Lists/standards/HTML.md",
+    "Color Lists/To Chat GPT.md",
+    "General/Color Info Standard Lists.md",
+    "General/Website Metadata.md",
+    "General/Social Description and Ideas.md",
+    "General/Palette Naming.md",
     "Color Names/FFFFE0.MD",
     "Color Names/FFFFF0.md",
     "Color Names/000000.md",
-    "Color Names/FFFFFF.md",
     "Color Lists/standards/NTC_svg_create.py",
     "Color Lists/standards/x11_svg_create.py",
     "Color Lists/standards/html_svg_create.py",
     "Color Lists/md_update.py",
-    "Color Lists/standards/x11.md",
-    "Color Names/FFD700.md",
-    "Color Names/4B0082.md",
-    "Color Names/DC143C.md",
-    "files without tags.md",
-    "Color Lists/standards/HTML.md",
-    "Color Names/00FFFF.md",
-    "Color Names/483D8B.MD",
-    "Color Names/3CB371.MD",
-    "Color Names/2F4F4F.MD",
-    "Color Names/20B2AA.MD",
-    "Color Names/191970.MD",
-    "Color Names/00FA9A.MD",
-    "Color Names/00CED1.MD",
-    "Color Names/00BFFF.MD",
-    "Color Names/008B8B.MD",
-    "Color Names/006400.MD",
-    "Color Names/0000CD.MD",
-    "Color Names/00008B.MD",
-    "Color Names/FFEBCD.MD",
-    "Color Names/FFF8DC.MD",
-    "Color Names/FFFAF0.MD",
     "Color Names/x11_tag.sh",
     "Color Names/ntc_tag copy.sh",
     "Color Names/html_tag.sh",
-    "Color Names/ntc_tag.sh",
-    "Color Names/ntc-tag.sh",
-    "Color Names/tag.sh",
     "Color Lists/This Book/This Book is Yellow.canvas",
     "General/attachments/0002 (1080) p3.png",
     "General/attachments/Color Snake Palette 001 (1920).png"
