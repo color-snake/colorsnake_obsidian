@@ -28,158 +28,23 @@
             }
           },
           {
-            "id": "81e42edc9c7485d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/FFE700.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f68a4f1323902e61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/FFDE59.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf187c359d12f696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/FEFE22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63fe05ad36eff3a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/FCF75E.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3941e9291f7dd44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/F9E647.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79e7420ef9512407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/EF9B0F.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cc89cc850cae341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/ED7936.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26192e36997dda87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/E0AB76.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "659b589670251021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/DAA06D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00bf0f99931a1e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/D2F5D6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "478b657e4789981c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/CEAF81.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f55113deaeaefae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Color Names/CDB280.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed2c52a948fd4210",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "472659be5d670ff6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -304,14 +169,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "dbb66d56002ed98b",
+  "active": "472659be5d670ff6",
   "lastOpenFiles": [
+    "Color Names/ABF057.md",
+    "Color Names/B2EC5D.md",
+    "Color Names/C2B280.md",
+    "Color Names/C19A6B.md",
+    "Color Names/FFBD88.md",
     "Color Lists/Color Snake Color.md",
     "Color Names/FFE700.md",
+    "Color Names/F9E647.md",
     "Color Names/FFDE59.md",
     "Color Names/FEFE22.md",
     "Color Names/FCF75E.md",
-    "Color Names/F9E647.md",
     "Color Names/EF9B0F.md",
     "Color Names/ED7936.md",
     "Color Names/CEAF81.md",
@@ -331,10 +201,6 @@
     "General/Color Info Standard Lists.md",
     "General/Website Metadata.md",
     "General/Social Description and Ideas.md",
-    "General/Palette Naming.md",
-    "Color Names/FFFFE0.MD",
-    "Color Names/FFFFF0.md",
-    "Color Names/000000.md",
     "Color Lists/standards/NTC_svg_create.py",
     "Color Lists/standards/x11_svg_create.py",
     "Color Lists/standards/html_svg_create.py",

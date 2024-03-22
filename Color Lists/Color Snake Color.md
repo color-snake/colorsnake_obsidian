@@ -86,18 +86,35 @@ Color Snake
 - [[CEAF81]]
 
 Color Snake
+```palette
+#FFBD88
+```
+- [[FFBD88]]
+
+Color Snake
+```palette
+#C19A6B
+```
+- [[C19A6B]]
+
+Color Snake
+```palette
+#C2B280
+```
+- [[C2B280]]
 
 
 Color Snake
-
-
-Color Snake
-
-
-Color Snake
-
+```palette
+#B2EC5D
+```
+- [[B2EC5D]]
 
 Color Snake
+```palette
+#ABF057
+```
+- [[ABF057]]
 
 
 Color Snake

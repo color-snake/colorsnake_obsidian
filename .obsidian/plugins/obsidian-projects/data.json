@@ -46,6 +46,12 @@
                 "field": "tags",
                 "operator": "is-empty",
                 "enabled": false
+              },
+              {
+                "field": "img",
+                "operator": "contains",
+                "enabled": false,
+                "value": "color_snake_csv_to_svg/"
               }
             ]
           },
