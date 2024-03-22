@@ -4,7 +4,7 @@ tags:
   - Color/Tag/ColorSnakeColor
 RGB: 
 Hex: 
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/FFDE59.svg
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/color_snake_csv_to_svg/%23FFDE59.svg
 CMYK: 
 HSL: 
 Name: 

@@ -1,11 +1,11 @@
 ---
 tags:
   - Color/Yellow
-RGB:
+RGB: 
 Hex: "#FCF75E"
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/standard_csv_to_svg/FCF75E.svg
-CMYK:
-HSL:
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/color_snake_csv_to_svg/%23FCF75E.svg
+CMYK: 
+HSL: 
 Name: Icterine
 Palette ID#:
 ---
