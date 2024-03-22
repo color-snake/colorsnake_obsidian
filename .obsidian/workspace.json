@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Lists/Color Snake Color.md",
+                "file": "Color Snake Palettes/Palette 0000.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,12 +39,28 @@
             "id": "472659be5d670ff6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General/Social/Post 0008.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0bfd4f6539fed25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Color Names/FDE910.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#FDE910",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,38 +185,38 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "472659be5d670ff6",
+  "active": "ed2c52a948fd4210",
   "lastOpenFiles": [
+    "Color Snake Palettes/Palette 0000.md",
+    "General/Social/Post 0000.md",
+    "General/Social/Post 0001.md",
+    "Color Lists/Color Snake Color.md",
+    "General/Social/Post 0008.md",
+    "Color Names/FDE910.md",
+    "Color Lists/standards/NTC.md",
+    "General/Social/Post 0007.md",
+    "Color Snake Palettes/Color Pair 0003.md",
+    "Color Snake Palettes/Color Pair 0004.md",
+    "Color Snake Palettes/Color Pair 0005.md",
+    "Color Snake Palettes/Color Pair 0006.md",
+    "Color Snake Palettes/Color Pair 0007.md",
+    "Color Snake Palettes/Color Pair 0002.md",
+    "Color Snake Palettes/Color Pair 0001.md",
+    "Color Snake Palettes/Color Pair 0000.md",
     "Color Names/ABF057.md",
     "Color Names/B2EC5D.md",
     "Color Names/C2B280.md",
     "Color Names/C19A6B.md",
     "Color Names/FFBD88.md",
-    "Color Lists/Color Snake Color.md",
     "Color Names/FFE700.md",
     "Color Names/F9E647.md",
     "Color Names/FFDE59.md",
     "Color Names/FEFE22.md",
     "Color Names/FCF75E.md",
-    "Color Names/EF9B0F.md",
-    "Color Names/ED7936.md",
-    "Color Names/CEAF81.md",
-    "Color Names/CDB280.md",
-    "Color Names/E0AB76.md",
-    "Color Names/DAA06D.md",
-    "Color Names/D2F5D6.md",
     "Color Lists/SNAKE_svg_create.py",
-    "Color Names/FFFFFF.md",
-    "Color Names/FFE4C4.MD",
     "Color Lists/Color_Snake_CSV.csv",
     "Color Lists/Color_Snake_CSv.csv",
     "Color Lists/Color_Snake_CVS.csv",
-    "Color Lists/standards/NTC.md",
-    "Color Lists/standards/HTML.md",
-    "Color Lists/To Chat GPT.md",
-    "General/Color Info Standard Lists.md",
-    "General/Website Metadata.md",
-    "General/Social Description and Ideas.md",
     "Color Lists/standards/NTC_svg_create.py",
     "Color Lists/standards/x11_svg_create.py",
     "Color Lists/standards/html_svg_create.py",

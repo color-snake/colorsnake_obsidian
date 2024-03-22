@@ -9397,5 +9397,5 @@ Ivory
 
 White
 ```palette
-#FFFFFF"
-  }
+#FFFFFF
+```

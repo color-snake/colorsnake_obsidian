@@ -21,7 +21,8 @@
         {
           "config": {
             "coverField": "img",
-            "fitStyle": "cover"
+            "fitStyle": "cover",
+            "cardWidth": 300
           },
           "filter": {
             "conditions": [
@@ -39,7 +40,7 @@
               {
                 "field": "tags",
                 "operator": "has-none-of",
-                "enabled": true,
+                "enabled": false,
                 "value": "[\"Color/Tag/NTC\"]"
               },
               {
@@ -91,12 +92,12 @@
               {
                 "field": "name",
                 "order": "asc",
-                "enabled": false
+                "enabled": true
               },
               {
                 "field": "name",
                 "order": "desc",
-                "enabled": true
+                "enabled": false
               }
             ]
           },
