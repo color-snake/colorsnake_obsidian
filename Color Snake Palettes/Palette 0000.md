@@ -33,3 +33,4 @@ Palettes
 - [[Palette 0016]]
 - [[Palette 0017]]
 - [[Palette 0018]]
+- 

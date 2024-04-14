@@ -2,7 +2,7 @@
 tags: 
 img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%200007%20(1920).png
 Palette ID#: 
-Shared:
+Shared: ✅
 ---
 Perfectly Loved
 ```palette

@@ -26,3 +26,5 @@ Color Pairs
 - [[Color Pair 0005]]
 - [[Color Pair 0006]]
 - [[Color Pair 0007]]
+- [[Color Pair 0008]]
+- 

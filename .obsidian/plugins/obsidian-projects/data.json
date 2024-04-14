@@ -225,7 +225,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "40f6775c-0f5b-4c89-b1e3-d719cf5afc57",
           "name": "Table",
