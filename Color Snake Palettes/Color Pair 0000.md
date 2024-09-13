@@ -27,4 +27,11 @@ Color Pairs
 - [[Color Pair 0006]]
 - [[Color Pair 0007]]
 - [[Color Pair 0008]]
-- 
+
+---
+
+Color Pair 0000
+```palette
+#FFFFFF
+#000000
+```

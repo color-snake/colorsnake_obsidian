@@ -2,6 +2,7 @@
 tags: []
 img:
 ---
+Red
 ```palette
 #AB274F
 #7C0902

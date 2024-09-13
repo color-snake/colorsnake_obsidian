@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbb66d56002ed98b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a84c32cf6dcfc944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Social Description and Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48eda860ab55475f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Social/Post 0011.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4e12f0f770ec1c5e",
             "type": "leaf",
             "state": {
@@ -52,71 +16,55 @@
             }
           },
           {
-            "id": "1960a8fe10a49fea",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "961b014080325a11",
+            "id": "8fb2a7eea51d195c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Lists/coolors/🟥 Red.md",
+                "file": "Color Snake Palettes/Palette 0011.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4691e1736a756edc",
+            "id": "0d864d5c1a2fde61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Snake Palettes/Color Pair 0008.md",
+                "file": "Color Snake Palettes/Palette 0006.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b414b994eb79c353",
+            "id": "169e447c61ede7b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Snake Palettes/Color Pair 0000.md",
+                "file": "Color Snake Palettes/Palette 0015.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "520927b20424f108",
+            "id": "fe3321d3a8291cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Social/Post 0013.md",
+                "file": "Color Snake Palettes/Palette 0006.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "eb744301527b19d2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "better ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +121,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color Snake Palettes/Color Pair 0008.md",
+                "file": "Color Snake Palettes/Palette 0006.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Color Snake Palettes/Color Pair 0008.md",
+                "file": "Color Snake Palettes/Palette 0006.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,12 +171,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Color Snake Palettes/Color Pair 0008.md"
+                "file": "Color Snake Palettes/Palette 0006.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,35 +193,35 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4691e1736a756edc",
+  "active": "0d864d5c1a2fde61",
   "lastOpenFiles": [
-    "Color Snake Palettes/Color Pair 0007.md",
+    "Color Snake Palettes/Palette 0004.md",
     "Color Snake Palettes/Palette 0011.md",
-    "Color Snake Palettes/Palette 0010.md",
-    "Color Snake Palettes/Color Pair 0008.md",
-    "Color Snake Palettes/Color Pair 0001.md",
-    "Color Snake Palettes/Color Pair 0000.md",
-    "Color Lists/coolors/🟥 Red.md",
-    "General/Social/Post 0013.md",
-    "Color Snake Palettes/Color Pair 0006.md",
-    "Color Snake Palettes/Color Pair 0005.md",
-    "Color Snake Palettes/Color Pair 0004.md",
-    "Color Snake Palettes/Color Pair 0003.md",
-    "Color Snake Palettes/Color Pair 0002.md",
-    "Color Lists/Color_Pair.csv",
-    "Color Snake Palettes/Palette 0019.md",
-    "Color Snake Palettes/Palette 0008.md",
-    "General/Social/Post 0012.md",
-    "General/Social/Post 0011.md",
-    "Color Snake Palettes/Palette 0018.md",
-    "Color Snake Palettes/Palette 0017.md",
-    "Color Snake Palettes/Palette 0016.md",
     "Color Snake Palettes/Palette 0015.md",
+    "Color Snake Palettes/Palette 0006.md",
+    "Color Snake Palettes/Palette 0014.md",
     "Color Snake Palettes/Palette 0013.md",
     "Color Snake Palettes/Palette 0012.md",
     "Color Snake Palettes/Palette 0009.md",
+    "Color Snake Palettes/Palette 0016.md",
+    "Color Snake Palettes/Palette 0017.md",
+    "Color Snake Palettes/Palette 0018.md",
+    "Color Snake Palettes/Palette 0019.md",
+    "Color Snake Palettes/Palette 0020.md",
+    "General/Social/Post 0015.md",
+    "Color Snake Palettes/Palette 0010.md",
+    "Color Snake Palettes/Palette 0008.md",
+    "Color Lists/coolors/🟥 Red.md",
+    "Color Snake Palettes/Palette 0003.md",
+    "Color Snake Palettes/Palette 0000.md",
+    "Color Snake Palettes/Palette 0002.md",
+    "General/Social/Post 0016.md",
+    "General/Social Description and Ideas.md",
     "Color Snake Palettes/Palette 0007.md",
-    "Color Lists/coolors/🟨 Yellow.md",
+    "Color Snake Palettes/Palette 0001.2.md",
+    "General/Social/Post 0014.md",
+    "Color Snake Palettes/Palette 0001.md",
+    "Color Lists/Color_Pair.csv",
     "Color Lists/This Book/This Book is Yellow.canvas",
     "Color Lists/SNAKE_svg_create.py",
     "Color Lists/Color_Snake_CSV.csv",

@@ -1,7 +1,7 @@
 ---
 tags:
   - Palette
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%20001%20(1920).png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/palette-thumbs/0001.png
 Palette ID#: "0001"
 Shared: ✅
 ---
@@ -83,6 +83,10 @@ RGB 253, 116, 241
 CMYK	0, 54, 5, 1
 HSL	305.3°, 97.2, 72.4
 
+==========
+
+Palette 0001
+Color Snake
 
 ---
 

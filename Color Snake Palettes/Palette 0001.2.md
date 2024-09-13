@@ -25,3 +25,7 @@ How I created this palette?
 I used blend mode difference for white text on my brand colors.
 
 
+==========
+
+Palette 0001.2
+Color Snake
