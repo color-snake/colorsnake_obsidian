@@ -1,13 +1,7 @@
-# Color Snake
-by Snake in the Toilet Design
+# colorsnake_obsidian
+obsidian vault for organizing colors and color palettes
 
-Find colors for your next project!
 
-**What is Color Snake?**
-- Color Palettes (Personal, and Shared on Mastodon)
-- Color organization (Personal, and Shared through this vault)
-- Desktop Color app (Maybe not, This is just an idea.)
-- Play with Colors (Fun sliders on website)
 
 ---
 
@@ -31,8 +25,5 @@ https://color-snake.neocities.org/
 Color Snake Mastodon
 https://mastodon.design/@color
 
-Color Snake Obsidian (This Obsidian Vault)
-https://gitlab.com/myobsidianvaults/color-snake
-
-Color Snake Codepen
-https://codepen.io/collection/rxRYvP
+Color Snake Github
+https://github.com/color-snake
