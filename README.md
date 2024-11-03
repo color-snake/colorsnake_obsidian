@@ -17,7 +17,7 @@ This vault is my personal vault for organizing colors and color palettes. I also
 
 ---
 
-### Links
+THIS OBSIDIAN VAULT IS A PART OF THE COLOR SNAKE PROJECT BY NATHAN RENFROE & THE SUNSHINING
 
 Color Snake Webpage
 https://color-snake.neocities.org/
