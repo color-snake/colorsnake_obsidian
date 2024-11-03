@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Snake Palettes/Palette 0001.2.md",
+                "file": "Color Snake Palettes/Palette 0001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Palette 0001.2"
+              "title": "Palette 0001"
             }
           },
           {
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,10 +272,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "8fb2a7eea51d195c",
+  "active": "c77edfe7ece0788e",
   "lastOpenFiles": [
     "Color Snake Palettes/Palette 0001.2.md",
+    "README.md",
+    "Color Snake Palettes/Palette 0001.md",
     "Color Snake Palettes/Palette 0002.md",
+    "General/Social/Post 0000.md",
     "Color Names/E2F3EC.md",
     "Color Names/D5F6E3.md",
     "Color Names/AF4D43.md",
@@ -292,14 +295,11 @@
     "Color Lists/coolors/coolors.md",
     "Color Lists/This Book/Yellow Variations.md",
     "Color Lists/coolors/🟥 Red.md",
-    "Color Snake Palettes/Palette 0001.md",
     "Color Snake Palettes/Palette 0000.md",
     "Color Snake Palettes/Color Pair 0002.md",
     "Color Snake Palettes/Color Pair 0001.md",
     "Color Snake Palettes/Color Pair 0000.md",
     "Color Snake Palettes/Palette 0006.md",
-    "Color Snake Palettes/Palette 0004.md",
-    "Color Snake Palettes/Palette 0014.md",
     "Color Lists/Color_Pair.csv",
     "Color Lists/This Book/This Book is Yellow.canvas",
     "Color Lists/SNAKE_svg_create.py",
