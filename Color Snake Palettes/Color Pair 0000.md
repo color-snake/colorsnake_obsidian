@@ -27,6 +27,8 @@ Color Pairs
 - [[Color Pair 0006]]
 - [[Color Pair 0007]]
 - [[Color Pair 0008]]
+- [[Color Pair 0009 - Dark and Light Theme]]
+- 
 
 ---
 
