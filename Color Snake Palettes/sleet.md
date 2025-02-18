@@ -9,7 +9,7 @@ Shared:
 .sleet colors
 
 ```palette
-#000000
+#313638
 #ffffff
 #f9f9ed
 #7d84b2
