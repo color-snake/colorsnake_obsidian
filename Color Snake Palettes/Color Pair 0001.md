@@ -1,3 +1,10 @@
+---
+tags:
+  - Palette
+img: "![hi](../General/attachments/png/Color_Pair_0001.png)"
+Palette ID#:
+Shared:
+---
 Everyday People
 ```palette
 #E3BD3D

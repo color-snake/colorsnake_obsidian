@@ -2,5 +2,7 @@
   "showInlineTitle": false,
   "attachmentFolderPath": "General/attachments",
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

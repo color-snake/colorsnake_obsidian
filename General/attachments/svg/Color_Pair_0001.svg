@@ -1,0 +1,7 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gold rectangle on the left half -->
+  <rect x="0" y="0" width="960" height="1080" fill="#E3BD3D" />
+  
+  <!-- Brown rectangle on the right half -->
+  <rect x="960" y="0" width="960" height="1080" fill="#543927" />
+</svg>
