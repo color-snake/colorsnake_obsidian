@@ -11,3 +11,5 @@
 #FFF8A3
 #FFC58A
 ```
+
+[Palette 0011](Palette%200011.md)
