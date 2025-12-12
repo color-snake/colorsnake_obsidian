@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: COLORS
+    filters:
+      and:
+        - file.inFolder("Color Names")
+    image: note.img
+    imageAspectRatio: 0.5
