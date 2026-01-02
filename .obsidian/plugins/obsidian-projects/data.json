@@ -174,7 +174,7 @@
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": false,
+      "isDefault": true,
       "dataSource": {
         "kind": "folder",
         "config": {
@@ -188,7 +188,8 @@
           "config": {
             "coverField": "img",
             "fitStyle": "cover",
-            "includeFields": []
+            "includeFields": [],
+            "cardWidth": 200
           },
           "filter": {
             "conditions": [
@@ -236,6 +237,30 @@
           "id": "40f6775c-0f5b-4c89-b1e3-d719cf5afc57",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "img"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "name",
+                "operator": "contains",
+                "enabled": true,
+                "value": "Pair"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "86d681b6-5046-4d9c-89c8-e78d7847c0c3",
+          "name": "PAIRS",
+          "type": "gallery"
         }
       ],
       "id": "9336a5ad-5f96-4fa4-8477-b33c81163112",

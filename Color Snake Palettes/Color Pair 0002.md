@@ -1,3 +1,9 @@
+---
+tags:
+img: https://colorsnake-svg-banner.testnet.page/FF3746-FF579C.svg
+Palette ID#:
+Shared:
+---
 Dancing in the rain.
 ```palette
 #FF3746

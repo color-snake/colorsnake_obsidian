@@ -1,7 +1,7 @@
 ---
 tags:
   - Palette
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/palette-thumbs/0001.png
+img: https://colorsnake-svg-banner.testnet.page/1920/D2F5D6-ED7936-8E93EB-ED4584-F6C288-6CEDEE-FD74F1.svg
 Palette ID#: "0001"
 Shared: ✅
 ---

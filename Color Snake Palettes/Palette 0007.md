@@ -1,7 +1,7 @@
 ---
-tags: 
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%200007%20(1920).png
-Palette ID#: 
+tags:
+img: https://colorsnake-svg-banner.testnet.page/1920/B4251A-C82A3E-E499C2-E15F6E-931F66.svg
+Palette ID#:
 Shared: ✅
 ---
 Perfectly Loved

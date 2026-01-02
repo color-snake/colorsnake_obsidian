@@ -1,5 +1,5 @@
 ---
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%200004%20(1920).png
+img: https://colorsnake-svg-banner.testnet.page/1920/AF9D91-963582-DBA6CF-A6C0DB.svg
 Palette ID#: "0004"
 Shared: ✅
 ---

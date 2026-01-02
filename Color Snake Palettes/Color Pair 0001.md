@@ -1,7 +1,7 @@
 ---
 tags:
   - Palette
-img: "![hi](../General/attachments/png/Color_Pair_0001.png)"
+img: https://colorsnake-svg-banner.testnet.page/E3BD3D-543927.svg
 Palette ID#:
 Shared:
 ---

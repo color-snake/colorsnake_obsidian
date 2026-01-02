@@ -1,7 +1,7 @@
 ---
-tags: 
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%200006%20(1920).png
-Palette ID#: 
+tags:
+img: https://colorsnake-svg-banner.testnet.page/1920/B39570-382C1F-D8D6D3-F0F0F0.svg
+Palette ID#:
 Shared: ✅
 ---
 Better King

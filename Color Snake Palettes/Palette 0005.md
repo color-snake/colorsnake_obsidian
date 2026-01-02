@@ -1,7 +1,7 @@
 ---
-tags: 
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%200005%20(1920).png
-Palette ID#: 
+tags:
+img: https://colorsnake-svg-banner.testnet.page/1920/5EA28F-01A2FF-FF644E-FAE231.svg
+Palette ID#:
 Shared: ✅
 ---
 Life

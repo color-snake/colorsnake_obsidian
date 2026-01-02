@@ -1,6 +1,6 @@
 ---
 tags:
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%200003%20(1920).png
+img: https://colorsnake-svg-banner.testnet.page/1920/FACB0F-0047AB-C30B4E-007F5C-FF4F00.svg
 Palette ID#: "0003"
 Shared: ✅
 ---
