@@ -3,15 +3,15 @@
 
 x11
 - #Color/Tag/x11 
-- [[x11]]
+- [[../Color Snake Palettes/🎨 Colors/standards/x11]]
 - https://github.com/colorjs/color-namer/blob/master/lib/colors/x11.js
 
 Basic
 - #Color/Tag/Basic 
-- [[Basic Colors]]
+- [[../Color Snake Palettes/🎨 Colors/standards/Basic Colors]]
 
 ROYGBIV
-- [[🌈 roygbiv]]
+- [[../Color Snake Palettes/🎨 Colors/standards/🌈 roygbiv]]
 - #Color/Tag/ROYGBIV 
 
 Coolors
@@ -20,12 +20,12 @@ Coolors
 NTC
 - #Color/Tag/NTC 
 - https://github.com/colorjs/color-namer/blob/master/lib/colors/ntc.js
-- [[NTC]]
+- [[../Color Snake Palettes/🎨 Colors/standards/NTC]]
 
 HTML
 - #Color/Tag/HTML
 - https://github.com/colorjs/color-namer/blob/master/lib/colors/html.js
-- [[HTML]]
+- [[../Color Snake Palettes/🎨 Colors/standards/HTML]]
 
 
 ## Color Snake Name Standard
