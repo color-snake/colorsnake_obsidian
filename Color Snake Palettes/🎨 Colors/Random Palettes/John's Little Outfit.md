@@ -2,7 +2,7 @@
 tags:
   - Palette
   - Palette/Family
-gal img:
+img:
 ---
 
 ```palette

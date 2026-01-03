@@ -2,7 +2,7 @@
 tags:
   - Palette
   - Palette/Color/Green
-gal img:
+img:
 ---
 
 ```palette

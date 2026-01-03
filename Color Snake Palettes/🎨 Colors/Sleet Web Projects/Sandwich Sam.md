@@ -1,7 +1,7 @@
 ---
 tags:
   - Palette
-gal img:
+img:
 ---
 
 ```palette

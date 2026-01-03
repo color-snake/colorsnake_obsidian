@@ -2,7 +2,7 @@
 tags:
   - Palette
   - Palette/Animal
-gal img:
+img:
 ---
 
 Some flamingo Colors:
