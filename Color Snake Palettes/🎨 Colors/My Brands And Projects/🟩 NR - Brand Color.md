@@ -1,7 +1,7 @@
 ---
 tags:
   - Palette
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/NR.png
+img: https://colorsnake-svg-banner.testnet.page/1920/008000-FFEB00.svg
 ---
 
 ```palette

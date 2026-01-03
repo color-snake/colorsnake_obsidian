@@ -7,7 +7,7 @@ Names and Variations of Yellow
 
 
 Yellow:
-- [[../Colors AND/🟨 Yellow]]
+- [[../coolors/🟨 Yellow]]
 - #Color/Yellow 
 - [[Yellow Variations]]
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Palette
-img: https://colorsnake-svg-banner.testnet.page/87CEFA-FE6F5E.svg
+img: https://colorsnake-svg-banner.testnet.page/1920/87CEFA-FE6F5E.svg
 Palette ID#:
 Shared:
 ---

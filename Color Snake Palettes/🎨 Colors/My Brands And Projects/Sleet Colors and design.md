@@ -1,7 +1,9 @@
 ---
 tags:
   - Palette
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/%F0%9F%94%97Sleet%20.png
+img: https://colorsnake-svg-banner.testnet.page/1920/313638-ffffff-f9f9ed-7d84b2-8089b7-8e9dcc-d9dbf1.svg
+Palette ID#:
+Shared:
 ---
 
 .sleet colors
