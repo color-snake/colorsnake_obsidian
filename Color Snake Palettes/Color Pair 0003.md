@@ -1,3 +1,10 @@
+---
+tags:
+  - Palette
+img: https://colorsnake-svg-banner.testnet.page/B2F7AC-AEF6E5.svg
+Palette ID#:
+Shared:
+---
 
 ```palette
 #B2F7AC

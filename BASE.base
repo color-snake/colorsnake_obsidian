@@ -12,5 +12,5 @@ views:
     name: PALETTES
     filters:
       and:
-        - file.folder == "Color Snake Palettes"
+        - file.folder.startsWith("Color Snake Palettes")
     image: note.img

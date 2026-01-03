@@ -179,7 +179,7 @@
         "kind": "folder",
         "config": {
           "path": "Color Snake Palettes",
-          "recursive": false
+          "recursive": true
         }
       },
       "newNotesFolder": "",
@@ -249,6 +249,11 @@
                 "operator": "contains",
                 "enabled": true,
                 "value": "Pair"
+              },
+              {
+                "field": "img",
+                "operator": "is-not-empty",
+                "enabled": true
               }
             ]
           },

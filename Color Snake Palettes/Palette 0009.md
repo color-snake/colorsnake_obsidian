@@ -1,7 +1,7 @@
 ---
-tags: 
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%200009%20(1920).png
-Palette ID#: 
+tags:
+img: https://colorsnake-svg-banner.testnet.page/1920/2F66EF-E2FA57-B840EE-E356C0-81F469.svg
+Palette ID#:
 Shared: ✅
 ---
 Fall on Me 2

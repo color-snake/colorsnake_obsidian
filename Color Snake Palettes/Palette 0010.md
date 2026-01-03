@@ -1,8 +1,8 @@
 ---
 tags:
   - Palette
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/Color%20Snake/Palette%20Thumbnails/Color%20Snake%20Palette%200010%20(1920).png
-Palette ID#: 
+img: https://colorsnake-svg-banner.testnet.page/1920/FFFDD0-FFFFFF-56BBE3-966562-836FA0.svg
+Palette ID#:
 Shared: ✅
 ---
 Amen

@@ -2,7 +2,9 @@
 tags:
   - Palette
   - Palette/Color/Yellow
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/YD.png
+img: https://colorsnake-svg-banner.testnet.page/F8FF00-D93238.svg
+Palette ID#:
+Shared:
 ---
 
 ```palette
