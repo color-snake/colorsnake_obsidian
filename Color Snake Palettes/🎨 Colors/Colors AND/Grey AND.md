@@ -3,7 +3,7 @@ tags:
   - Palette
   - Palette/Color/Gray
   - Palette/Color/Yellow
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Grey.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Grey.png
 ---
 Grey/Gray/Silver
 

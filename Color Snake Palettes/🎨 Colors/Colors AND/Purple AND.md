@@ -2,7 +2,7 @@
 tags:
   - Palette
   - Palette/Color/Purple
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Purple.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Purple.png
 ---
 Purple and Green
 ```palette

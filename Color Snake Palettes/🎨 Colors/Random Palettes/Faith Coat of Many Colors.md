@@ -2,7 +2,7 @@
 tags:
   - Palette
   - Palette/Bright
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Faith%20Coat%20of%20Many%20Colors.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Faith%20Coat%20of%20Many%20Colors.png
 ---
 
 Everything gets handed down

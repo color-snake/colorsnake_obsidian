@@ -3,7 +3,7 @@ tags:
   - Palette
   - Palette/Color/Black
   - Palette/Color/Yellow
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Black.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Black.png
 ---
 
 Black, Green and Silver

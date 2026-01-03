@@ -2,7 +2,7 @@
 tags:
   - Palette
   - Palette/Color/Red
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Red.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Red.png
 ---
 This almost looks like a Christmas Palette. #Palette/Count/4 
 ```palette

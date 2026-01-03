@@ -4,7 +4,7 @@ tags:
   - Palette/Count/5
   - Palette/Color/Green
   - Palette/Plant
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Dandelion%20green.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Dandelion%20green.png
 ---
 
 ```palette

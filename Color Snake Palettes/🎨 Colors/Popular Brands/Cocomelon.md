@@ -2,7 +2,7 @@
 tags:
   - Palette
 url: https://cocomelon.com/
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Cocomelon.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Cocomelon.png
 ---
 From the word: #Palette/Count/9 
 ```palette

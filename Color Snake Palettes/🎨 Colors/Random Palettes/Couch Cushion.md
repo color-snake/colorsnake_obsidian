@@ -3,7 +3,7 @@ tags:
   - Palette
   - Palette/Color/Brown
   - Palette/Count/5
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Couch%20Cushion.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Couch%20Cushion.png
 ---
 
 ```palette

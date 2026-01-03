@@ -4,7 +4,7 @@ tags:
   - Palette/Count/5
   - Palette/Faith
   - Palette/Family
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Faith%20Pants.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Faith%20Pants.png
 ---
 
 ```palette

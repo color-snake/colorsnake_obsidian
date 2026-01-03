@@ -1,7 +1,7 @@
 ---
 tags:
   - Palette
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/SLV.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/SLV.png
 ---
 Website Colors:
 ```palette

@@ -2,7 +2,7 @@
 tags:
   - Palette
   - Palette/Color/Purple
-gal img:
+img:
 ---
 
 

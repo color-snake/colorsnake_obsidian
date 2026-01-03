@@ -2,7 +2,7 @@
 tags:
   - Palette
   - Palette/Color/Yellow
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Yellow_2.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Yellow_2.png
 ---
 Yellow and purple #Palette/Color/Purple #Palette/Color/Blue #Palette/Color/Green 
 ```palette

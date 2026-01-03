@@ -1,7 +1,7 @@
 ---
 tags:
   - Palette
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Apple%20System%20Colors.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Apple%20System%20Colors.png
 ---
 
 ```palette

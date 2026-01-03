@@ -2,7 +2,7 @@
 tags:
   - Palette
   - Palette/Color/Blue
-gal img:
+img:
 ---
 #Palette/Color/Red 
 ```palette

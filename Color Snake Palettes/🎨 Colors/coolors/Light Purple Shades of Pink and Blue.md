@@ -6,7 +6,7 @@ tags:
   - Palette/Color/Blue
   - Palette/Color/Purple
   - Palette/Count/5
-gal img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/coolors/Light%20Purple%20Shades%20of%20Pink%20and%20Blue.png
+img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/coolors/Light%20Purple%20Shades%20of%20Pink%20and%20Blue.png
 ---
 
 ```palette
