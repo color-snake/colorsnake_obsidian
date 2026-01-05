@@ -12,7 +12,7 @@ Current main colors:
 ```
 
 
-From [[SunBible Colors]] 
+From [[../../My Brands And Projects/SunBible Colors]] 
 
 ```palette
 #ffc8c8
