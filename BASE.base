@@ -1,4 +1,13 @@
 views:
+  - type: cards
+    name: PALETTES
+    filters:
+      and:
+        - file.folder.startsWith("Color Snake Palettes")
+    sort:
+      - property: img
+        direction: ASC
+    image: note.img
   - type: table
     name: Table
   - type: cards
@@ -8,9 +17,3 @@ views:
         - file.inFolder("Color Names")
     image: note.img
     imageAspectRatio: 0.5
-  - type: cards
-    name: PALETTES
-    filters:
-      and:
-        - file.folder.startsWith("Color Snake Palettes")
-    image: note.img

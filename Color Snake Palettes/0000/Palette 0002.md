@@ -5,7 +5,7 @@ img: https://colorsnake-svg-banner.testnet.page/1920/FCF75E-FFFFFF-FF7518-FFC0CB
 Palette ID#: "0002"
 Shared: ✅
 ---
-# Yellow Bunny
+# Yellow Bunny (SUNPUFF)
 
 Yellow Bunny, White Tummy, Orange Bowtie and Pink Nose.
 ```palette

@@ -3,7 +3,7 @@ tags:
   - Palette
   - Palette/Christmas
   - Palette/Count/5
-img: https://filedn.com/l0hpzxl1f01yT7GHxtF8cyk/SitT%20Colors/Old%20Toy.png
+img: https://colorsnake-svg-banner.testnet.page/1920/3A84CF-E04745-2F6D43-EBC542-EC6630.svg
 ---
 This toy had lots of colors and spiny things.
 ```palette

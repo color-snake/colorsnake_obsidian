@@ -12,7 +12,7 @@ colorsnake-css
 [Palette 0001](../0000/Palette%200001.md)
 
 sticky-css
-[stickynotes](../My%20Brands%20And%20Projects/stickynotes.md)
+[stickynotes stickydesign](../My%20Brands%20And%20Projects/stickynotes%20stickydesign.md)
 
 huggies-css
 [Huggies](../My%20Brands%20And%20Projects/Huggies.md)
